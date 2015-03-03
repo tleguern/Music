@@ -4,7 +4,7 @@
 \header {
 	title = "Tape Nombril"
 	subsubtitle = "v1.0"
-	composer = "Katé-Mé"
+	composer = "IMG"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
