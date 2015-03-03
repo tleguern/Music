@@ -10,7 +10,7 @@ OBJS=${SRCS:.ly=.pdf}
 all: ${OBJS}
 
 clean:
-	rm ${OBJS}
+	rm -f ${OBJS}
 
 view: ${OBJS}
 	xpdf ${OBJS}
