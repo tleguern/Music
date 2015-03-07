@@ -27,5 +27,6 @@ Be aware that some are just barely started.
 * acruelangelsthesis.ly
 * fearofthedark.ly
 * marionslesroses.ly
+* riseofnations_therussian.ly
 
 [1]: https://en.wikipedia.org/wiki/Bombard_%28music%29
