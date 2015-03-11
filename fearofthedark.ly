@@ -17,20 +17,18 @@
 		\tempo 4 = 128
 
 		\repeat volta 2 {
-			do8 do sol sol do do re re
+			fa'8 fa do do fa fa sol sol
+			| la la sol sol fa fa sol sol
+			| mib mib sib sib mib mib fa fa
+			| sol sol fa fa mib mib sol mib
+		}
+
+		\repeat volta 2 {
+			do do sol sol do do re re
 			| mib mib re re do do re re
 			| sib sib fa fa sib sib do do
 			| re re do do sib sib re sib
 		}
-
-		sol sol re re sol sol la la
-		| sib sib la la sol sol la la
-		| fa fa do do fa fa sol sol
-		| la la sol sol fa fa la fa
-		| sol sol re re sol sol la la
-		| sib sib la la sol sol la la
-		| fa fa do do fa fa sol sol
-		| la la sol sol fa fa la fa
 	}
 	\header {
 		piece = "Introduction"
