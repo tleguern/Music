@@ -31,4 +31,12 @@ Be aware that some are just barely started.
 * marionslesroses.ly
 * riseofnations_therussian.ly
 
+How to build
+------------
+
+This project is buildable through BSD make. On Linux-based system it
+might be available as the `pmake' command.
+
+You need Lilypond >= 2.14.2.
+
 [1]: https://en.wikipedia.org/wiki/Bombard_%28music%29
