@@ -15,6 +15,7 @@ be wrong though.
 * bacchuber.ly
 * brogozmazadou.ly
 * kanbaleanarb.ly
+* korobeiniki.ly
 * panzerlied.ly
 * tapenombril.ly
 * warcraft2_human1.ly
@@ -27,7 +28,6 @@ Be aware that some are just barely started.
 
 * acruelangelsthesis.ly
 * fearofthedark.ly
-* korobeiniki.ly
 * marionslesroses.ly
 * riseofnations_therussian.ly
 

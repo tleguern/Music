@@ -3,6 +3,7 @@
 
 \header {
 	title = "Коробейники (Korobeiniki)"
+	subsubtitle = "v1.0"
 	poet = "Nikolaï Alekseïevitch Nekrassov"
 	composer = "Traditionnel Russe"
 	arranger = "Tristan Le Guern"
@@ -33,8 +34,8 @@
 		| re4 re8 mib
 		| fa4 sol
 		| mib do
-		| do r
-		\bar "|." \break
+		| do r_"D.C."
+		\break
 	}
 }
 
