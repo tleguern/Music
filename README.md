@@ -11,6 +11,7 @@ Complete
 These music scores should be relatively stable and complete. I might
 be wrong though.
 
+* ageofempire2_maintheme.ly
 * bacchuber.ly
 * brogozmazadou.ly
 * kanbaleanarb.ly

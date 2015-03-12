@@ -1,5 +1,6 @@
-SRCS=bacchuber.ly brogozmazadou.ly kanbaleanarb.ly panzerlied.ly \
-	tapenombril.ly warcraft2_human1.ly
+SRCS= ageofempire2_maintheme.ly bacchuber.ly brogozmazadou.ly kanbaleanarb.ly \
+     panzerlied.ly tapenombril.ly warcraft2_human1.ly
+
 OBJS=${SRCS:.ly=.pdf}
 
 .SUFFIXES: .ly .pdf
