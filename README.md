@@ -27,6 +27,7 @@ These music scores are not finished and can be at any level of progress.
 Be aware that some are just barely started.
 
 * acruelangelsthesis.ly
+* alestorm_hangover.ly
 * fearofthedark.ly
 * marionslesroses.ly
 * riseofnations_therussian.ly
