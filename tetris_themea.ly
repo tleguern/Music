@@ -2,7 +2,7 @@
 \include "italiano.ly"
 
 \header {
-	title = "Tetris"
+	title = "Tetris - Theme A"
 	subsubtitle = "v1.0"
 	composer = "Hirokazu Tanaka"
 	arranger = "Tristan Le Guern"
