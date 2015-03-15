@@ -14,6 +14,7 @@ be wrong though.
 * ageofempire2_maintheme.ly
 * bacchuber.ly
 * brogozmazadou.ly
+* danskeff.ly
 * kanbaleanarb.ly
 * korobeiniki.ly
 * panzerlied.ly
