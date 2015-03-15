@@ -24,7 +24,12 @@
 
 		\time 4/4
 		\repeat volta 2 {
-			
+			do16 re mib fa sol8 sol16 fa sol fa mib8 re4
+			| do8 re fa4 mib8 re do4
+		}
+		\alternative {
+			{| re mib re8 do re4}
+			{| mib re do2}
 		}
 	}
 }
