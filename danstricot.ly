@@ -32,4 +32,16 @@
 			{| mib re do2}
 		}
 	}
+	\addlyrics {
+		Der -- riè -- re de chez mon père,
+		| il y a un moul -- in
+		| Re -- ve -- nez -- y donc ma jo -- lie de -- moi -- selle
+		| Car il est, car il est en train mon mou -- lin
+	}
+	\addlyrics {
+		Le -- meu -- nier qui l'ha -- bi -- te,
+		| est un joy -- eux blond -- in
+		| \repeat unfold 11 { \skip 1 }
+		| Car il est en train d'y \repeat unfold 5 { \skip 1 } mou __ dre
+	}
 }
