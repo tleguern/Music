@@ -19,6 +19,7 @@ be wrong though.
 * korobeiniki.ly
 * panzerlied.ly
 * tapenombril.ly
+* tetris_themea.ly
 * warcraft2_human1.ly
 
 Work in progress
