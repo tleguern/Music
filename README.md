@@ -15,6 +15,7 @@ be wrong though.
 * bacchuber.ly
 * brogozmazadou.ly
 * danskeff.ly
+* danstricot.ly
 * kanbaleanarb.ly
 * korobeiniki.ly
 * panzerlied.ly
@@ -30,7 +31,6 @@ Be aware that some are just barely started.
 
 * acruelangelsthesis.ly
 * alestorm_hangover.ly
-* danstricot.ly
 * fearofthedark.ly
 * marionslesroses.ly
 * riseofnations_therussian.ly
