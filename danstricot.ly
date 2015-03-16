@@ -22,7 +22,6 @@
 			| fa mib8 re fa4 mib do2
 			| do4 mib8 re mib4 fa sol sol
 			| fa mib8 re fa4 mib do2
-
 		} \break
 
 		\time 4/4
@@ -48,5 +47,11 @@
 		\repeat unfold 13 {\skip 1}
 		\repeat unfold 11 {\skip 1}
 		| Car il est en train d'y \repeat unfold 5 {\skip 1} mou -- dre
+	}
+	\layout {
+		\context {
+		\Staff
+		\override TimeSignature #'break-visibility = #'#(#f #f #t)
+		}
 	}
 }
