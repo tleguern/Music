@@ -38,7 +38,7 @@
 		}
 		\alternative {
 			{| do2 re2}
-			{| do1}
+			{| do1_"D.C."}
 		}
 	}
 	\header {
