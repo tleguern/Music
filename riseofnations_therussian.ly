@@ -13,12 +13,17 @@
 	\new Staff \relative si {
 		\clef treble
 		\key sib \major
-		%\time 6/4
+		\time 6/4
 
-		% XXX
-		sol'2 fa4 mib re2 do mib4 re do re2 sib
-		sol' fa4 mib re2 do4 re2 sol4 mib2 re sol2 fa4 mib re2
-
+		sol'2 fa4 mib re2
+		| do mib8 re do re sib2
+		| sol'2 fa4 mib re2
+		| do4 re2 sol4 mib2
+		| re sol2 fa4 mib
+		| re2 mib re4 do
+		| re2 sol2 fa4 mib8 re8
+		| do2 re4 sib do
+		\bar "|."
 	}
 	\header {
 		piece = "Introduction"
