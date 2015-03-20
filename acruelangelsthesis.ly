@@ -41,6 +41,15 @@
 			{| sol8. fa mib8 fa4 do | do4. re8 re4 r4}
 			{| sol8. fa mib8 fa8. sol la8 | sol2 r2}
 		} \break
+
+		mib8. mib re8 mib8. mib re8
+		| fa8. fa mib8 re8. do re8
+		| mib8. mib re8 fa8. re do8
+		| sib4 r2.
+		| mib8. mib re8 mib8. mib re8
+		| fa8. fa mib8 re8. mib fa8
+		| sol8. la sol8 fa8. mib fa8
+		| sol2 r2
 	}
 	\layout {
 		\context {
