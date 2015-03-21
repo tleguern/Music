@@ -20,6 +20,7 @@ be wrong though.
 * kanbaleanarb.ly
 * korobeiniki.ly
 * panzerlied.ly
+* sonarchistr.ly
 * tapenombril.ly
 * tetris_themea.ly
 * warcraft2_human1.ly
