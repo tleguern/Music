@@ -12,6 +12,7 @@ These music scores should be relatively stable and complete. I might
 be wrong though.
 
 * ageofempire2_maintheme.ly
+* alestorm_nancythetarvernwench.ly
 * bacchuber.ly
 * brogozmazadou.ly
 * danskeff.ly
