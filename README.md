@@ -12,6 +12,7 @@ These music scores should be relatively stable and complete. I might
 be wrong though.
 
 * ageofempire2_maintheme.ly
+* alestorm_keelhauled.ly
 * alestorm_nancythetarvernwench.ly
 * bacchuber.ly
 * brogozmazadou.ly
@@ -33,7 +34,6 @@ Be aware that some are just barely started.
 
 * acruelangelsthesis.ly
 * alestorm_hangover.ly
-* alestorm_keelhauled.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
 * riseofnations_therussian.ly

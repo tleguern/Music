@@ -3,6 +3,7 @@
 
 \header {
 	title = "Keelhauled"
+	subsubtitle = "v1.0"
 	composer = "Alestorm"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
@@ -60,6 +61,16 @@
 		\time 4/4
 		\tempo 4 = 220
 
+		\repeat volta 2 {
+			do4 do2 re4
+			| mib mib mib mib8 do
+			| re4 re re mib8 fa
+			| sol4 do, do2
+			| do4 do do re
+			| mib mib mib mib8 fa
+			| sol fa mib4 fa mib8 re
+			| do4 sib do r
+		}
 	}
 	\header {
 		piece = "Chorus"
