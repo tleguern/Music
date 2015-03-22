@@ -16,6 +16,7 @@ be wrong though.
 * alestorm_nancythetarvernwench.ly
 * bacchuber.ly
 * brogozmazadou.ly
+* cocklesandmussels.ly
 * danskeff.ly
 * danstricot.ly
 * kanbaleanarb.ly
