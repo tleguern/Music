@@ -14,6 +14,7 @@ be wrong though.
 * ageofempire2_maintheme.ly
 * alestorm_keelhauled.ly
 * alestorm_nancythetarvernwench.ly
+* analarch.ly
 * bacchuber.ly
 * brogozmazadou.ly
 * cocklesandmussels.ly
