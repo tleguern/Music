@@ -50,6 +50,18 @@
 		| fa8. fa mib8 re8. mib fa8
 		| sol8. la sol8 fa8. mib fa8
 		| sol2 r2
+		\break
+
+		% Hackish way to choose the alternative number ...
+		\set Score.repeatCommands = #(list 'start-repeat)
+		do,4 mib fa8. mib8. fa8
+		| fa fa sib la sol16 fa8 sol16~ sol4
+		| sol sib do8. fa,8. mib8
+		\set Score.repeatCommands = #'((volta #f) (volta "1.") end-repeat)
+		| re8 re do re fa16 mib8 mib16 r4
+		\set Score.repeatCommands = #'((volta #f) (volta "2-3.") end-repeat)
+		| sib'8 sib sol sib sib8. do16~ do4
+		\set Score.repeatCommands = #'((volta #f))
 	}
 	\layout {
 		\context {
