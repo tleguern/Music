@@ -36,6 +36,7 @@ Be aware that some are just barely started.
 
 * acruelangelsthesis.ly
 * alestorm_hangover.ly
+* alestorm_thatfamousolspiced.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
 * riseofnations_therussian.ly
