@@ -15,7 +15,16 @@
 		\key sib \major
 		\time 3/2
 
-		do2 sol'8 sol sol2 fa8 sol la4 sol fa sol4. do,
+		\repeat volta 2 {
+			do2 sol'8 sol sol2 fa8 sol
+			| la4 sol fa sol4. do,
+			| mib2 mib8 mib mib4 fa mib
+			| re2. sib
+			| do2 sol'8 sol sol2 fa8 sol
+			| la4 sol fa sol4. do
+			| sib2 sib8 sib sib4 la sib
+			| do1
+		}
 	}
 	\header {
 		piece = "Melody"
