@@ -22,7 +22,7 @@
 		| re sol2 fa4 mib
 		| re2 mib re4 do
 		| re2 sol2 fa4 mib8 re8
-		| do2 re4 sib do
+		| do2 re4 sib do2
 		\bar "|."
 	}
 	\header {
