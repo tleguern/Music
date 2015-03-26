@@ -14,6 +14,7 @@
 		\clef treble
 		\key sib \major
 		\time 6/4
+		\tempo 4 = 100
 
 		sol'2 fa4 mib re2
 		| do mib8 re do re sib2
@@ -35,6 +36,7 @@
 		\clef treble
 		\key sib \major
 		\time 4/4
+		\tempo 4 = 100
 
 		\repeat volta 2 {
 			do4 sol' mib re8 sib
