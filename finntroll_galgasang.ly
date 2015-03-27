@@ -22,9 +22,10 @@
 		do4 do16 do mib re do4 r4
 		}
 		\alternative {
-			{sol'8 fa16 mib fa4}
-			{sol8 la16 fa sol4}
+			{\time 2/4 sol'8 fa16 mib fa4}
+			{\time 2/4 sol8 la16 fa sol4}
 		} \break
+		\time 4/4
 
 		\repeat volta 2 {
 			fa8 sol16 fa do4 do do
