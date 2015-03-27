@@ -32,5 +32,6 @@
 			| fa8 mib16 re do4 do do
 		}
 
+		do8 do4 sol'8 sol4 sol8 fa mib re do4
 	}
 }
