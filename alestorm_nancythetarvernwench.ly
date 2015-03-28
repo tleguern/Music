@@ -16,6 +16,7 @@
 		\key sib \major
 		\time 6/8
 
+		\partial 4. re4.
 		\repeat volta 2 {
 			sib8 do do do4 mib8
 			| sol4 sol8 fa16 mib4 re16
