@@ -34,4 +34,10 @@
 
 		do8 do4 sol'8 sol4 sol8 fa mib re do4
 	}
+	\layout {
+		\context {
+		\Staff
+		\override TimeSignature #'break-visibility = #'#(#f #f #t)
+		}
+	}
 }
