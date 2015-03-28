@@ -31,4 +31,15 @@
 			{| do2.}
 		}
 	}
+	\addlyrics {
+		So
+		| come take a drink and
+		| drown your sor -- rows, and
+		| all of our fears will be
+		| gone till to -- mor -- row,
+		| We'll have no regrets and
+		| live for the day In
+		| Nan -- cy's Har -- bour Ca --
+		| fé. (So)
+	}
 }
