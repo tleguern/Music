@@ -72,6 +72,16 @@
 			| do4 sib do r
 		}
 	}
+	\addlyrics {
+		Keel -- haul, that
+		| fil -- thy land -- lub -- ber,
+		| send him down to the
+		| depths be -- low
+		| Make that ba -- stard
+		| walk the plank with a
+		| bot -- tle of rum and the
+		| Yo -- Ho -- Ho
+	}
 	\header {
 		piece = "Chorus"
 	}
