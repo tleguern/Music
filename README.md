@@ -37,9 +37,11 @@ Be aware that some are just barely started.
 * acruelangelsthesis.ly
 * alestorm_hangover.ly
 * alestorm_thatfamousolspiced.ly
+* finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
 * riseofnations_therussian.ly
+* warcraft2_human3.ly
 
 How to build
 ------------
