@@ -36,4 +36,18 @@
 			| re8 sib do2
 		}
 	}
+	\addlyrics {
+		Ev
+		| sistr 'ta Laou, rak
+		| sistr zo mat, loñ -- la Ev
+		| sistr 'ta Laou, rak
+		| sistr zo mat Ev
+		| sistr zo mat Ev
+		| sistr 'ta Laou, rak
+		| sistr zo mat Ur
+		| blank, ur blank ar
+		| cho -- pin -- ad loñ -- la Ur
+		| blank, ur blank ar
+		| cho -- pin -- ad
+	}
 }
