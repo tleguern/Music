@@ -45,4 +45,25 @@
 		| sol4. mib8 fa4
 		| mib2._"D.C."
 	}
+	\addlyrics {
+		In
+		| Dub -- lin's fair ci -- ty, where
+		| girls are so pret -- ty I
+		| first set my eyes on sweet
+		| Mol -- ly Mal --
+		| one, As she
+		| wheeled her wheel --
+		| bar -- row Through
+		| streets broad and
+		| nar -- row, Cry -- ing
+		| cock -- les and mus -- sels! A --
+		| live, a -- live
+		| oh! A -- live, a -- live
+		| oh! _ A --
+		| live,  a -- live
+		| oh! _ Cry -- ing
+		| cock -- les and
+		| mus -- sels! A --
+		| live, a -- live oh!
+	}
 }
