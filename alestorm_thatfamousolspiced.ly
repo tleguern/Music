@@ -42,6 +42,12 @@
 		| fa fa sol la sol fa
 		| sol fa mib do2 r4
 	}
+	\addlyrics {
+		Pour me a slug of it
+		| Throw me a mug of it
+		| Bring me a jug of that
+		| Fam -- ous Ol' Spiced
+	}
 	\header {
 		piece = "Chorus"
 	}
