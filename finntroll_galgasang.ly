@@ -33,6 +33,7 @@
 		}
 
 		do8 do4 sol'8 sol4 sol8 fa mib re do4
+		do8 do4 sol'8 sol4 sol8 sib4 la8 fa4
 	}
 	\layout {
 		\context {
