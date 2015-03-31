@@ -40,6 +40,6 @@
 		| We'll have no regrets and
 		| live for the day In
 		| Nan -- cy's Har -- bour Ca --
-		| fé. (So)
+		| fé. So
 	}
 }
