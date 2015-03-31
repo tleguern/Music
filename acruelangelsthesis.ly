@@ -56,12 +56,13 @@ triplechorus = \relative si {
 	\set Score.repeatCommands = #'((volta #f) (volta "2-3.") end-repeat)
 	| sib'8 sib sol sib sib8. do16~ do4
 	\set Score.repeatCommands = #'((volta #f))
+	\set Score.repeatCommands = #(list 'end-repeat)
 	\break
 }
 
 weirdsolo = \relative si {
 	r1
-	| r2 sol4 fa
+	| r2 sol'4 fa
 	| do'2. r4
 	| r2 sol4 fa
 	| do'4. sib8~ sib4 r4
