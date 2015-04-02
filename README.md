@@ -20,6 +20,7 @@ be wrong though.
 * cocklesandmussels.ly
 * danskeff.ly
 * danstricot.ly
+* gwinarchallaoued.ly
 * kanbaleanarb.ly
 * korobeiniki.ly
 * panzerlied.ly
