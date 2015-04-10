@@ -17,9 +17,9 @@
 		\tempo 4 = 65
 
 		\repeat volta 2 {
-		do4 do16 do mib re do4 r4
-		do4 do16 do mib re do4 sib
-		do4 do16 do mib re do4 r4
+			do8 do16 do mib re do4
+			do8 do16 do mib re do8 sib
+			do8 do16 do mib re do4 r8
 		}
 		\alternative {
 			{\time 2/4 sol'8 fa16 mib fa4}
@@ -33,12 +33,12 @@
 		}
 
 		do8 do4 sol'8 sol4 sol8 fa mib re do4
-		do8 do4 sol'8 sol4 sol8 sib4 la8 fa4
+		do8 do4 sol'8 sol4 sol8 sib4 la8 sol4
 	}
 	\layout {
 		\context {
 		\Staff
-		\override TimeSignature #'break-visibility = #'#(#f #f #t)
+		\override TimeSignature #'break-visibility = #'#(#f #t #t)
 		}
 	}
 }
