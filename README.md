@@ -24,6 +24,7 @@ be wrong though.
 * kanbaleanarb.ly
 * korobeiniki.ly
 * panzerlied.ly
+* riseofnations_therussian.ly
 * sonarchistr.ly
 * tapenombril.ly
 * tetris_themea.ly
@@ -41,7 +42,6 @@ Be aware that some are just barely started.
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
-* riseofnations_therussian.ly
 * warcraft2_human3.ly
 
 How to build

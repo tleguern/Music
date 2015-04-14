@@ -3,6 +3,7 @@
 
 \header {
 	title = "Rise of Nations - The Russian"
+	subsubtitle = "v1.0"
 	composer = "Duane Decker"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
@@ -13,30 +14,25 @@
 	\new Staff \relative si {
 		\clef treble
 		\key sib \major
-		\time 6/4
-		\tempo 4 = 100
-
-		sol'2 fa4 mib re2
-		| do mib8 re do re sib2
-		| sol'2 fa4 mib re2
-		| do4 re2 sol4 mib2
-		| re sol2 fa4 mib
-		| re2 mib re4 do
-		| re2 sol2 fa4 mib8 re8
-		| do2 re4 sib do2
-		\bar "|."
-	}
-	\header {
-		piece = "Introduction"
-	}
-}
-
-\score {
-	\new Staff \relative si {
-		\clef treble
-		\key sib \major
 		\time 4/4
 		\tempo 4 = 100
+
+		sol'2 fa4 mib
+		| re2 do
+		| mib4 re do re
+		| sib1
+		| sol'2 fa4 mib
+		| re2. do4
+		| re2. sol4
+		| mib2 re
+		| sol2 fa4 mib
+		| re1
+		| mib2 re4 do
+		| re1
+		| sol2 fa4 mib8 re8
+		| do2 re4 sib
+		| do1
+		\break
 
 		\repeat volta 2 {
 			do4 sol' mib re8 sib
@@ -45,11 +41,8 @@
 		}
 		\alternative {
 			{| do2 re2}
-			{| do1_"D.C."}
+			{| do1}
 		}
-	}
-	\header {
-		piece = "Main Theme"
 	}
 }
 
