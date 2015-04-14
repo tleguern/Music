@@ -10,13 +10,19 @@
 }
 
 melody = \relative si {
-	do4 do8 re mib mib fa sol
+	\repeat volta 2 {
+	do4 do8 re mib re fa sol
 	| do4 do8 sib sol4 fa
 	| sol do, do2
-	| do8 re mib fa mib4 sib
-	| do do8 re mib fa mib sol
+	| do8 re mib fa re4 sib
+	| do do8 re mib re fa sol
 	| do4 do8 sib sol4 fa
-	% TODO
+	| fa sol sol8 sol r8 sol
+	}
+	\alternative {
+		{| la4 la sol fa}
+		{| la4 la sib sib | do r2.}
+	}
 	\break
 }
 
