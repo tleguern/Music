@@ -38,6 +38,7 @@ Be aware that some are just barely started.
 
 * acruelangelsthesis.ly
 * alestorm_hangover.ly
+* alestorm_shipwrecked.ly
 * alestorm_thatfamousolspiced.ly
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
