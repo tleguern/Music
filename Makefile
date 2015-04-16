@@ -1,9 +1,9 @@
-SRCS= ageofempire2_maintheme.ly alestorm_keelhauled.ly \
-	 alestorm_nancythetarvernwench.ly analarch.ly bacchuber.ly \
-	 brogozmazadou.ly cocklesandmussels.ly danskeff.ly danstricot.ly \
-	 gwinarchallaoued.ly kanbaleanarb.ly korobeiniki.ly panzerlied.ly \
-	 riseofnations_therussian.ly sonarchistr.ly tapenombril.ly \
-	 tetris_themea.ly warcraft2_human1.ly
+SRCS= absurd_deswotansschwarzerhaufen.ly ageofempire2_maintheme.ly \
+	alestorm_keelhauled.ly alestorm_nancythetarvernwench.ly analarch.ly \
+	bacchuber.ly brogozmazadou.ly cocklesandmussels.ly danskeff.ly \
+	danstricot.ly gwinarchallaoued.ly kanbaleanarb.ly korobeiniki.ly \
+	panzerlied.ly riseofnations_therussian.ly sonarchistr.ly \
+	tapenombril.ly tetris_themea.ly warcraft2_human1.ly
 
 OBJS=${SRCS:.ly=.pdf}
 
