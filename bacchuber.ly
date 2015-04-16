@@ -4,7 +4,7 @@
 \header {
 	title = "Bacchu Ber"
 	subsubtitle = "v1.0"
-	composer = "Traditionnal"
+	composer = "Traditionnel Français"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
