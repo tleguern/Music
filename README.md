@@ -37,6 +37,7 @@ Work in progress
 These music scores are not finished and can be at any level of progress.
 Be aware that some are just barely started.
 
+* absurd_morningsoul.ly
 * acruelangelsthesis.ly
 * alestorm_hangover.ly
 * alestorm_shipwrecked.ly
