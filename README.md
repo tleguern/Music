@@ -12,6 +12,7 @@ These music scores should be relatively stable and complete. I might
 be wrong though.
 
 * absurd_deswotansschwarzerhaufen.ly
+* absurd_mourningsoul.ly
 * ageofempire2_maintheme.ly
 * alestorm_keelhauled.ly
 * alestorm_nancythetarvernwench.ly
