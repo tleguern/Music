@@ -20,22 +20,24 @@
 		| re4 re do8 mib4.
 		| re4 re re8 re4.
 		| re8 mib re2.
+		\break
 
 		| do4 do re8 mib4.
 		| fa4 mib fa8 sol4.
 		| do,4 mib mib8 re4.
 		| do4 do2.
-		
+		\break
+
 		| do4 fa mib8 re4.
 		| do4 fa mib8 re4.
 		| do4 re re8 re4.
 		| re8 mib8 re2.
+		\break
 
 		| do4 do re8 mib4.
 		| fa4 mib fa8 sol4.
 		| do,4 mib mib8 re4.
 		| do4 do2.
-		
 		\break
 
 		\repeat volta 2 {
@@ -55,7 +57,7 @@
 		| A fire's bur -- ning
 		| in my soul
 		| Why should I live,
-		| love dy -- ing	 pain
+		| love dy -- ing pain
 		| My death is rea
 		-- pers gain
 		| In so -- li -- tude
