@@ -18,10 +18,10 @@
 		%\tempo 4 = 90
 
 		\repeat volta 2 {
-			r4 la
+			r4 sib
 			| do4. do8
 			| do4 re
-			| fa8 mib re4
+			| fa8( mib) re4
 			| mib do
 			| sib re
 			| do2
@@ -42,10 +42,10 @@
 		} \break
 
 		\repeat volta 2 {
-			r4 la
+			r4 sib
 			| do4. do8
 			| do4 re
-			| mib8 re8 do4
+			| mib8( re8) do4
 			| fa mib
 			| re sib
 			| do2
@@ -53,51 +53,51 @@
 		} \break
 	}
 	\addlyrics {
-		poent
-		| eo sla
-		| gañ Bre
-		| lo _ ned
+		Poent
+		| eo sta --
+		| gañ Bre --
+		| to -- ned
 		| gant stourm
 		| meur ar
 		| vro
-		| und
+		Un
 		| deiz e
 		| vo sklaer
-		| an am
+		| an am --
 		| zer war
-		| hen choù
+		| hen -- choù
 		| don ar
 		| bre -- zel
 		| kuzh
-		| poent
-		| eo sku
+		Poent
+		| eo sku --
 		| bañ an
-		| oa _ led
+		| oa led
 		| kem penn
-		| an e
-		| ro
+		| an e --
+		| rv
 	}
 	\addlyrics {
-		poent
-		| eo sku
+		Poent
+		| eo sku --
 		| bañ an
-		| oa _ led
-		| kem penn
-		| ann e
-		| ro
-		| Und --
-		| eizh e
-		| vo lo
-		| c'huis ha
-		| taer dis
-		| hro Ar
+		| oa -- led
+		| kem -- penn
+		| an e --
+		| rv
+		Un
+		| deiz e
+		| vo lo --
+		| c'hus ha
+		| taer dis --
+		| tro Ar --
 		| zhur war
 		| ur marc'h
-		| ruzh
-		| poent
-		| eo sla
-		| gañ Bre
-		| to _ ned
+		| ruz
+		Poent
+		| eo sta --
+		| gañ Bre --
+		| to -- ned
 		| gant stourm
 		| meur ar
 		| vro
