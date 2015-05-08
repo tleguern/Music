@@ -74,3 +74,23 @@
 		| I sim -- ply will de -- cay.
 	}
 }
+
+\markup {
+	\vspace #5.0
+	\hspace #4.0
+	\column {
+		\line {
+			\bold "2."
+			\column {
+				"Of fallen mind I ran away"
+				"Decay lies behind me"
+				"On desert plains where I can see"
+				"The northern light it blinds me"
+				"No strength no help to break the spell"
+				"This curse that drives me down"
+				"My mortal life runs out of me"
+				"I'm dying on my own"
+			}
+		}
+	}
+}
