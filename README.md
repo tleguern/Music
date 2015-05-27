@@ -26,6 +26,7 @@ be wrong though.
 * kanbaleanarb.ly
 * korobeiniki.ly
 * panzerlied.ly
+* pasdesept.ly
 * riseofnations_therussian.ly
 * sonarchistr.ly
 * tapenombril.ly
