@@ -47,6 +47,7 @@ Be aware that some are just barely started.
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
+* polyyshka-polye.ly
 * warcraft2_human3.ly
 
 How to build
