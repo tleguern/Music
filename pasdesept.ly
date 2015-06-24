@@ -20,7 +20,7 @@
 		\repeat volta 2 {
 			sib4 mib mib mib
 			| re8 mib fa re mib4 re8 do
-			| do4 la' la la
+			| do4 sol' sol sol
 			| fa8 sol la fa sol2
 		} \break
 		\repeat volta 2 {
