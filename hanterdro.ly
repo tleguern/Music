@@ -28,3 +28,27 @@
 		}
 	}
 }
+
+\score {
+	\new Staff \relative sib {
+		\clef "treble"
+		\key sib \major
+		\time 3/4
+		\tempo 4 = 85
+
+		\repeat volta 2 {
+			fa'8( sol16 la) sib8 la( fa4)
+			| la8( sol16 la) do8( sib) la sol
+			| fa( sol16 la) sib8 la( fa4)
+			| la8( sol16 la) do8( sib) sol4
+		}
+		\break
+		\repeat volta 2 {
+			fa8( sol16 la) do8( sib) la( sol)
+			| fa( sol16 fa) do8( fa) fa4
+			| fa8( sol16 la) do8( sib) la( sol)
+			| fa( sol16 la) sib8 la( fa4)
+		}
+	}
+
+}
