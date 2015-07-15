@@ -5,7 +5,6 @@
 	title = "Cockles and Mussles"
 	subsubtitle = "v1.0"
 	composer = "Traditionnel Irlandais"
-	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }

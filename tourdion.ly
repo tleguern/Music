@@ -4,7 +4,6 @@
 \header {
 	title = "Tourdion (Quand je bois du vin)"
 	composer = "Traditionnel Français"
-	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }

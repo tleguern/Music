@@ -6,7 +6,6 @@
 	subtitle = "Double scottish"
 	subsubtitle = "v1.0"
 	composer = "Traditionnel breton"
-	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }

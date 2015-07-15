@@ -5,7 +5,6 @@
 	title = "Bro Goz ma Zadoù"
 	subsubtitle = "v1.0"
 	composer = "Taldir Jaffrenou"
-	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }

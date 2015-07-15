@@ -5,7 +5,6 @@
 	title = "Dans Keff"
 	subsubtitle = "v1.0"
 	composer = "Traditionnel Breton"
-	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }

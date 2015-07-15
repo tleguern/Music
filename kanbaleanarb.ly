@@ -5,7 +5,6 @@
 	title = "Kan Bale an ARB"
 	subsubtitle = "v1.0"
 	composer = "Glenmor"
-	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
