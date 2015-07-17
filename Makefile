@@ -12,6 +12,7 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	gwinarchallaoued.ly \
 	kanbaleanarb.ly \
 	korobeiniki.ly \
+	marchedesbergers.ly \
 	panzerlied.ly \
 	pasdesept.ly \
 	riseofnations_therussian.ly \
