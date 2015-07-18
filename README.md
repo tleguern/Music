@@ -22,6 +22,7 @@ be wrong though.
 * cocklesandmussels.ly
 * danskeff.ly
 * danstricot.ly
+* eliziza.ly
 * gwinarchallaoued.ly
 * kanbaleanarb.ly
 * korobeiniki.ly

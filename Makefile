@@ -9,6 +9,7 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	cocklesandmussels.ly \
 	danskeff.ly \
 	danstricot.ly \
+	eliziza.ly \
 	gwinarchallaoued.ly \
 	kanbaleanarb.ly \
 	korobeiniki.ly \
