@@ -26,13 +26,13 @@ be wrong though.
 * gwinarchallaoued.ly
 * kanbaleanarb.ly
 * korobeiniki.ly
-* marchedesbergers.ly
 * panzerlied.ly
 * pasdesept.ly
 * riseofnations_therussian.ly
 * sonarchistr.ly
 * tapenombril.ly
 * tetris_themea.ly
+* valse.ly
 * warcraft2_human1.ly
 
 Work in progress

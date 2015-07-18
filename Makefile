@@ -20,6 +20,7 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	sonarchistr.ly \
 	tapenombril.ly \
 	tetris_themea.ly \
+	valse.ly \
 	warcraft2_human1.ly
 
 OBJS=${SRCS:.ly=.pdf}
