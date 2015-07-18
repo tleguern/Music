@@ -38,5 +38,4 @@
 		\override TimeSignature #'break-visibility = #'#(#f #t #t)
 		}
 	}
-	\midi {}
 }
