@@ -25,6 +25,7 @@ be wrong though.
 * eliziza.ly
 * gwinarchallaoued.ly
 * kanbaleanarb.ly
+* kasabarzh-01.ly
 * korobeiniki.ly
 * panzerlied.ly
 * pasdesept.ly

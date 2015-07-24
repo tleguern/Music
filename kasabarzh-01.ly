@@ -4,6 +4,7 @@
 \header {
 	title = "D'er ion, d'er ias !"
 	subtitle = "Kas a-barzh"
+	subsubtitle = "v1.0"
 	composer = "Job Kerlagad"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
