@@ -33,6 +33,7 @@ be wrong though.
 * sonarchistr.ly
 * tapenombril.ly
 * tetris_themea.ly
+* tourdion.ly
 * valse.ly
 * warcraft2_human1.ly
 
