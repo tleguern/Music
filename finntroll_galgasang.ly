@@ -12,7 +12,7 @@
 \score {
 	\new Staff \relative si {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 4/4
 		\tempo 4 = 65
 
