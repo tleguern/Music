@@ -29,7 +29,7 @@
 
 		\repeat volta 2 {
 			fa8 sol16 fa do4 do do
-			| fa8 mib16 re do4 do do
+			| \times 2/3 {fa8 mib re} do4 do do
 		}
 
 		do8 do4 sol'8 sol4 sol8 fa mib re do4
