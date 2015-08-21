@@ -13,7 +13,7 @@
 \score {
 	\new Staff \relative si {
 		\clef "treble"
-		\key sib \major
+		\key mib \major
 		\tempo 4 = 180
 
 		do4 do re8 mib4.
@@ -45,7 +45,7 @@
 			| re mib mib8 re4.
 			| do4 do re8 mib4.
 			| fa4 mib fa8 sol4.
-			| sol4 la la8 sol4.
+			| sol4 lab lab8 sol4.
 			| fa4 mib mib8 re4.
 			| do4 sib do8 re4.
 			| sib4 do2.

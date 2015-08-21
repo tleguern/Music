@@ -13,19 +13,19 @@
 \score {
 	\new Staff \relative si {
 		\clef "treble"
-		\key sib \major
+		\key mib \major
 
 		sib8 do4. re8 mib fa4
-		| sol la sol2
-		| la sib
-		| la8 sol4.~ sol4 sol
-		| fa la sol fa
+		| sol lab sol2
+		| lab sib
+		| lab8 sol4.~ sol4 sol
+		| fa lab sol fa
 		| mib re do2
 		| do sol'
 		| sol8 sol fa4 mib2
 		\repeat volta 2 {
 			do2 mib8 sol4 r8
-			| la4 sib sol2
+			| lab4 sib sol2
 			| fa8 mib re mib fa4 sol
 			| mib re do2
 		}

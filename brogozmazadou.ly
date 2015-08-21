@@ -12,21 +12,21 @@
 \score {
 	\new Staff \relative si {
 		\clef "treble"
-		\key sib \major
+		\key mib \major
 		\time 3/4
 
 		\partial 4 sib4
 		| re do sib
 		| fa' mib re
-		| sib' sib sol8 (la)
+		| sib' sib sol8 (lab)
 		| sib2 sol4
 		| fa re sib
-		| sib la sib
+		| sib lab sib
 		| re do do
 		| do2 fa4
 		| fa fa re8 (mib)
-		| fa4 fa sol8 (la)
-		| sib4 sib sol8 (la) 
+		| fa4 fa sol8 (lab)
+		| sib4 sib sol8 (lab) 
 		| sib2 sol4
 		| fa re sib
 		| do re do
@@ -35,11 +35,11 @@
 		| fa'2.
 		| sib2 r4
 		| fa4 re sib
-		| sib (la) sib
+		| sib (lab) sib
 		| do2 fa4
 		| fa2 re8 (mib)
-		| fa2 sol8 (la)
-		| sib2 sol8 (la)
+		| fa2 sol8 (lab)
+		| sib2 sol8 (lab)
 		| sib2 sol4
 		| fa re sib
 		| do re do

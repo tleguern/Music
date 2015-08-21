@@ -12,7 +12,7 @@
 \score {
 	\new Staff \relative si {
 		\clef "treble"
-		\key sib \major
+		\key mib \major
 		\time 2/4
 		\tempo 4 = 90
 
@@ -20,20 +20,20 @@
 		| do re do do16 re
 		| mib8 fa fa mib16 fa
 		| sol8( fa) mib mib16 fa \break
-		| sol8 sol sol la16 fa
+		| sol8 sol sol lab16 fa
 		| sol8 sol do4
-		| sib-^ sol8 sol16 la
-		| sib8 sib sib do16 la \break
+		| sib-^ sol8 sol16 lab
+		| sib8 sib sib do16 lab \break
 		| sol4. fa16 mib
 		| fa8( mib) r re16 mib
 		| fa8 sol fa re16 mib16
 		| fa8 sol fa mib16 fa \break
 		| sol4 fa8 sol
 		| do,4 r8 do
-		| mib fa sol la
+		| mib fa sol lab
 		| sol fa16 mib mib8 sib \break
 		| do4 do8 do
-		| mib fa sol la
+		| mib fa sol lab
 		| sol fa16 mib mib8 sib
 		| do4 r_"D.C."
 	}

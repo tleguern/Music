@@ -23,7 +23,7 @@
 		}
 		\alternative {
 			{\time 2/4 sol'8 fa16 mib fa4}
-			{\time 2/4 sol8 la16 fa sol4}
+			{\time 2/4 sol8 lab16 fa sol4}
 		} \break
 		\time 4/4
 
@@ -33,7 +33,7 @@
 		}
 
 		do8 do4 sol'8 sol4 sol8 fa mib re do4
-		do8 do4 sol'8 sol4 sol8 sib4 la8 sol4
+		do8 do4 sol'8 sol4 sol8 sib4 lab8 sol4
 	}
 	\layout {
 		\context {

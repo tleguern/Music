@@ -13,7 +13,7 @@
 \score {
 	\new Staff \relative si {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 6/8
 
 		\partial 4. re4.
@@ -21,7 +21,7 @@
 			sib8 do do do4 mib8
 			| sol4 sol8 fa16 mib4 re16
 			| fa8. fa16 fa8 fa mib fa
-			| sol8 la8. sol16 fa8 mib4
+			| sol8 lab8. sol16 fa8 mib4
 			| sib8 do do do4 mib8
 			| sol8. fa16 mib8 mib4 mib8
 			| do4 mib8 re do sib

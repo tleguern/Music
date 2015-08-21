@@ -20,8 +20,8 @@ melody = \relative si {
 	| fa sol sol8 sol r8 sol
 	}
 	\alternative {
-		{| la4 la sol fa}
-		{| la4 la sib sib | do r2.}
+		{| lab4 lab sol fa}
+		{| lab4 lab sib sib | do r2.}
 	}
 	\break
 }
@@ -52,7 +52,7 @@ chorus = \relative si {
 \score {
 	\new Staff \relative si {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 4/4
 		\tempo 4 = 220
 

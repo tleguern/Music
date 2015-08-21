@@ -60,13 +60,13 @@
 \score {
 	\new Staff \relative sib {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 12/8
 		\tempo 4 = 80
 
 		\partial 4 sib4
 		\repeat volta 2 {
-			mib mib8 mib4 fa8 sol4 sol8 sol4 la8
+			mib mib8 mib4 fa8 sol4 sol8 sol4 lab8
 			| sib4 do8 sib4 sol8 fa sol fa mib4.
 		} \break
 
@@ -74,10 +74,10 @@
 		\repeat volta 2 {
 			\repeat volta 2 {
 				sol4. fa4 mib8 re4 mib8 fa4.
-				| fa8 sol la sol4 fa8
+				| fa8 sol lab sol4 fa8
 			}
 			\alternative {
-				{sol4 la8 sib4.}
+				{sol4 lab8 sib4.}
 				{mib,4. mib4.}
 			}
 		}

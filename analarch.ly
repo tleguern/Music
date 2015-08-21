@@ -12,28 +12,28 @@
 \score {
 	\new Staff \relative sib {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 2/4
 
 		\partial 8 do8
-		fa sol la4
+		fa sol lab4
 		| fa mib8 mib
 		\time 2/8
 		| fa do
 		\time 2/4
-		| fa sol la4
+		| fa sol lab4
 		| fa mib8 mib
 		\time 2/8
-		| fa la
+		| fa lab
 		\time 2/4
-		| la sib do8. do16
-		| sib8. la16 la4(
+		| lab sib do8. do16
+		| sib8. lab16 lab4(
 		| sol2)
 		%\break
-		| fa8 sol la sol16 fa
+		| fa8 sol lab sol16 fa
 		| fa8 mib16 mib fa4
 		| do r
-		| fa8 sol la sol16 fa
+		| fa8 sol lab sol16 fa
 		| fa8 mib fa4 r_"D.C."
 	}
 	\addlyrics {
