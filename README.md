@@ -23,6 +23,7 @@ be wrong though.
 * danskeff.ly
 * danstricot.ly
 * danstro-02.ly
+* darkthrone_transylvanianhunger.ly
 * eliziza.ly
 * gwinarchallaoued.ly
 * kanbaleanarb.ly
