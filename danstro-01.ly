@@ -2,7 +2,7 @@
 \include "italiano.ly"
 
 \header {
-	title = "Gavotte"
+	title = "Dañs tro"
 	composer = "Traditionnel Breton"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

@@ -12,7 +12,7 @@
 \score {
 	\new Staff \relative sib {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 3/4
 
 		\repeat volta 2 {
@@ -28,7 +28,7 @@
 
 		\repeat volta 2 {
 			| mib fa sol4 sol
-			| la8 fa sol4. sol8
+			| lab8 fa sol4. sol8
 			| fa8. fa16 mib4 do
 			| do8 fa fa8. mib16 re8 fa
 			| fa8. re16 mib4 do

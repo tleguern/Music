@@ -16,7 +16,7 @@
 		\tempo 4 = 85
 
 		\repeat volta 2 {
-			mib8 re16 do mib8 fa mib do
+			mib8 re16 do re8 fa mib do
 			| mib re16 do re8 mib do4
 		}
 		\break

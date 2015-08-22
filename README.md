@@ -22,10 +22,13 @@ be wrong though.
 * cocklesandmussels.ly
 * danskeff.ly
 * danstricot.ly
+* danstro-02.ly
+* darkthrone_transylvanianhunger.ly
 * eliziza.ly
 * gwinarchallaoued.ly
 * kanbaleanarb.ly
 * kasabarzh-01.ly
+* kasabarzh-02.ly
 * korobeiniki.ly
 * panzerlied.ly
 * pasdesept.ly
@@ -47,6 +50,7 @@ Be aware that some are just barely started.
 * alestorm_hangover.ly
 * alestorm_shipwrecked.ly
 * alestorm_thatfamousolspiced.ly
+* danstro-01.ly
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly

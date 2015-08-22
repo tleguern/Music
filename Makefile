@@ -9,10 +9,13 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	cocklesandmussels.ly \
 	danskeff.ly \
 	danstricot.ly \
+	danstro-02.ly \
+	darkthrone_transylvanianhunger.ly \
 	eliziza.ly \
 	gwinarchallaoued.ly \
 	kanbaleanarb.ly \
 	kasabarzh-01.ly \
+	kasabarzh-02.ly \
 	korobeiniki.ly \
 	marchedesbergers.ly \
 	panzerlied.ly \
