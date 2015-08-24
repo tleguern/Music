@@ -17,16 +17,16 @@
 		\time 4/4
 
 		\repeat volta 2 {
-			fa'8 fa fa fa mib8 mib mib mib
-			| re8 re re re mib mib mib mib
-			| mib8 mib mib mib re re re re
-			| mib8 mib mib mib re re re re
+			fa'2:32^\markup "Flz" mib:
+			| re: mib:
+			| mib: re:
+			| mib: re:
 		}
 		\repeat volta 2 {
-			| do8 do do do do do do do
-			| re8 re re re re re re re
-			| do8 do do do do do do do
-			| mib8 mib mib mib mib mib mib mib
+			do: do:
+			re: re:
+			do: do:
+			mib: mib:
 		}
 	}
 }
