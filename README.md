@@ -56,6 +56,7 @@ Be aware that some are just barely started.
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
 * polyyshka-polye.ly
+* valse_ecossaise-01.ly
 * warcraft2_human3.ly
 
 How to build
