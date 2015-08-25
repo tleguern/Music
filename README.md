@@ -30,6 +30,7 @@ be wrong though.
 * kasabarzh-01.ly
 * kasabarzh-02.ly
 * korobeiniki.ly
+* marchedesbergers.ly
 * panzerlied.ly
 * pasdesept.ly
 * riseofnations_therussian.ly
