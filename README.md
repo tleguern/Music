@@ -37,6 +37,7 @@ be wrong though.
 * tapenombril.ly
 * tetris_themea.ly
 * tourdion.ly
+* troiscoupdtalon.ly
 * valse.ly
 * warcraft2_human1.ly
 
