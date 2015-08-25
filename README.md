@@ -26,6 +26,9 @@ be wrong though.
 * darkthrone_transylvanianhunger.ly
 * eliziza.ly
 * gwinarchallaoued.ly
+* hanterdro-01.ly
+* hanterdro-02.ly
+* hanterdro-03.ly
 * kanbaleanarb.ly
 * kasabarzh-01.ly
 * kasabarzh-02.ly
