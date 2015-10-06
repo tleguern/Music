@@ -57,6 +57,7 @@ Be aware that some are just barely started.
 * alestorm_shipwrecked.ly
 * alestorm_thatfamousolspiced.ly
 * danstro-01.ly
+* drakonhail_augustescorbeaux.ly
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
