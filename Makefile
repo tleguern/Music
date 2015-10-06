@@ -6,6 +6,7 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	analarch.ly \
 	bacchuber.ly \
 	brogozmazadou.ly \
+	chanj-tu.ly \
 	cocklesandmussels.ly \
 	danskeff.ly \
 	danstricot.ly \
