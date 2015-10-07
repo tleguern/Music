@@ -43,25 +43,43 @@
 		\tempo 4 = 134
 
 		\repeat volta 2 {
-			r4 r8 sib8 do4 re8 mib~
+			| r4 r8 sib8 do4 re8 mib~
 			| mib4. fa8 mib4 re8 sib~
 			| sib4. lab8 sib4 lab
-			| lab sib do8 re mib do
+			| lab sib sib mib8 do
 			| r4 r8 sib8 do4 re8 mib~
 			| mib4. fa8 mib4 re8 sib~
 			| sib1 \break
 		}
 
 		\repeat volta 2 {
-			r4 do sib la8 sib~
+			| r4 do sib lab8 sib~
 			| sib1~
 			| sib4 do mib re8 mib~ 
 			| mib1
 			| r4 sib do re
 			| mib re mib fa
 			| sol fa mib re
-			| do1 \break
+			| do1
 		}
+	}
+	\addlyrics {
+		I am a man who walks a -- lone
+		And when I'm wal -- king a dark road
+		At night or strol -- ling through the park
+
+		Fear of the dark, fear of the dark
+		I have a con -- stant fear that some -- thing's
+		Al -- ways near.
+	}
+	\addlyrics {
+		\skip 1 When the light be -- gins to change
+		I some -- times feel a lit -- tle strange
+		A lit -- tle an -- xious when it's dark
+
+		\repeat unfold 8 { \skip 1 }
+		I have a pho -- bi -- a that some -- one's
+		Al -- ways there.
 	}
 	\header {
 		piece = "Verse 1"
