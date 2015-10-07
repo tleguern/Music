@@ -1,9 +1,10 @@
-\version "2.14.2"
+\version "2.16.2"
 \include "italiano.ly"
 
 \header {
 	title = "Augustes Corbeaux"
 	composer = "Dunkel"
+	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
