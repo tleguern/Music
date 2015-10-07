@@ -86,6 +86,18 @@
 	}
 }
 
+interlude = \relative sib {
+	\repeat volta 2 {
+		do4 sol' fa8 fa sol do,~
+		| do4 sol' fa8 fa sol do,~
+		| do4 sol' fa8 fa sol do,~
+		| do4 sol' fa8 fa sol do,~
+		| do4 sol' fa8 fa sol do,~
+		| do4 sol' fa8 fa sol do,~
+		| do4 sib do re
+		| mib fa mib re8 do \break
+	}
+}
 \score {
 	\new Staff \relative sib {
 		\clef treble
@@ -93,16 +105,19 @@
 		\time 4/4
 		\tempo 4 = 172
 
-		\repeat volta 2 {
-			do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sib do re
-			| mib fa mib re8 do \break
-		}
+		\interlude
+	}
+	\header {
+		piece = "Interlude"
+	}
+}
+
+\score {
+	\new Staff \relative sib {
+		\clef treble
+		\key sib \major
+		\time 4/4
+		\tempo 4 = 172
 
 		\repeat volta 2 {
 			r4 sib do re
@@ -132,20 +147,33 @@
 			| sol fa mib re
 			| do r4 r2 \break
 		}
-		
-		\repeat volta 2 {
-			do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sol' fa8 fa sol do,~
-			| do4 sib do re
-			| mib fa mib re8 do~ \break
-		}
+	}
+	\addlyrics {
+		Have you run your fingers down the wall
+		And have you felt your neck skin crawl
+		When you're searching for the light?
+	}
+	\addlyrics {
+		Sometimes when you're scared to take a look
+		At the cor -- ner of the room
+		You've sensed that some -- thing's watching you
 	}
 	\header {
-		piece = "Chorus"
+		piece = "Second verse"
+	}
+}
+
+\score {
+	\new Staff \relative sib {
+		\clef treble
+		\key sib \major
+		\time 4/4
+		\tempo 4 = 172
+
+		\interlude
+	}
+	\header {
+		piece = "Interlude"
 	}
 }
 
