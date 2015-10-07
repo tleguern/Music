@@ -19,7 +19,7 @@
 		| mib mib mib fa
 		| re re re do
 		| mib mib mib sol8 fa
-		| mib4 mib mib sib
+		| re4 re re do
 		}
 	}
 }
