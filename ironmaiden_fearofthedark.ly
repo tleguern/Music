@@ -1,4 +1,4 @@
-\version "2.14.2"
+\version "2.16.2"
 \include "italiano.ly"
 
 \header {
@@ -12,21 +12,21 @@
 \score {
 	\new Staff \relative sib {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 4/4
 		\tempo 4 = 128
 
 		\repeat volta 2 {
 			fa'8 fa do do fa fa sol sol
-			| la la sol sol fa fa sol sol
+			| lab lab sol sol fa fa sol sol
 			| mib mib sib sib mib mib fa fa
 			| sol sol fa fa mib mib sol mib
 		}
 
 		\repeat volta 2 {
-			do do sol sol do do re re
+			do do sib sib do do re re
 			| mib mib re re do do re re
-			| sib sib fa fa sib sib do do
+			| sib sib lab lab sib sib do do
 			| re re do do sib sib re sib
 		}
 	}
@@ -38,15 +38,15 @@
 \score {
 	\new Staff \relative sib {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 4/4
 		\tempo 4 = 134
 
 		\repeat volta 2 {
 			r4 r8 sib8 do4 re8 mib~
 			| mib4. fa8 mib4 re8 sib~
-			| sib4. fa8 sib4 fa
-			| la sib sib mib8 do
+			| sib4. lab8 sib4 lab
+			| lab sib do8 re mib do
 			| r4 r8 sib8 do4 re8 mib~
 			| mib4. fa8 mib4 re8 sib~
 			| sib1 \break
@@ -83,11 +83,11 @@
 			| do4 sol' fa8 fa sol do,~
 			| do4 sol' fa8 fa sol do,~
 			| do4 sib do re
-			| mib fa mib re8 do~ \break
+			| mib fa mib re8 do \break
 		}
 
 		\repeat volta 2 {
-			do4 sol do re
+			r4 sib do re
 			| mib fa mib re8 do~
 			| do2 do4 re
 			| mib fa mib re8 do~
