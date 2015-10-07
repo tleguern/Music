@@ -134,22 +134,32 @@
 \score {
 	\new Staff \relative sib {
 		\clef treble
-		\key sib \major
+		\key mib \major
 		\time 4/4
 		\tempo 4 = 128
 
-		do2 re4 mib
-		| re4. mib16 re do4. do16 sib
-		| la4. la16 sol fa4 la4
-		| fa1 \break
+		\repeat volta 2 {
+			| fa'2 sol4 lab
+			| sol4. lab16 sol fa4. fa16 mib
+		}
+		\alternative {
+			{| re4. re16 do sib4 re4
+			 | sib1}
+			{| re4. re16 do sib4 mib4
+			 | re2~ re4. sib8}
+		}
+		\break
 
-		do'2 re4 mib
-		| re4. mib16 re do4. do16 sib
-		| la4. la16 sol fa4 sib4
-		| do2~ do4. fa,8 \break
-
-		| do'2~ do8 fa do re
-		| mib fa16 mib re4. fa8 do re
+		\repeat volta 2 {
+			| fa'2~ fa8 sib, fa' sol
+			| lab sib16 lab sol4. sib,8 fa' sol
+		}
+		\alternative {
+			{| lab sib16 lab sol4. fa16 mib re8 mib
+			 | sib2~ sib4. sib8}
+			{| lab' sib16 lab sol4. mib16 re do8 re'
+			 | re1}
+		}
 	}
 	\header {
 		piece = "?"
