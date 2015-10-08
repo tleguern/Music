@@ -147,9 +147,16 @@ interlude = \relative sib {
 		| do r4 r2 \break
 	}
 	\addlyrics {
-		Have you run your fingers down the wall
-		And have you felt your neck skin crawl
-		When you're searching for the light?
+		Have you run your fingers down the wall,
+		and have you felt your neck skin crawl,
+		when you're searching for the light?
+
+		Fear of the dark, fear of the dark,
+		I have a con -- stant fear that some -- thing's
+		al -- ways near.
+		Fear of the dark, fear of the da -- rk,
+		I have a pho -- bia that some -- one's
+		al -- ways there.
 	}
 	\addlyrics {
 		Sometimes when you're scared to take a look
