@@ -129,24 +129,22 @@ interlude = \relative sib {
 			| sol1 \break
 		}
 
-		\repeat volta 2 {
-			r4 mib mib re8 mib~
-			| mib1
-			| r4 sol sol fa8 sol~
-			| sol1
-			| r4 mib mib re
-			| mib re mib fa
-			| sol fa mib re
-			| do1
-			| r4 mib mib re8 mib~
-			| mib1
-			| r4 sol sol fa8 sol~
-			| sol2~ sol4. fa8~
-			| fa2 mib4 re
-			| mib re mib fa
-			| sol fa mib re
-			| do r4 r2 \break
-		}
+		| r4 mib mib re8 mib~
+		| mib1
+		| r4 sol sol fa8 sol~
+		| sol1
+		| r4 mib mib re
+		| mib re mib fa
+		| sol fa mib re
+		| do1
+		| r4 mib mib re8 mib~
+		| mib1
+		| r4 sol sol fa8 sol~
+		| sol2~ sol4. fa8~
+		| fa2 mib4 re
+		| mib re mib fa
+		| sol fa mib re
+		| do r4 r2 \break
 	}
 	\addlyrics {
 		Have you run your fingers down the wall
