@@ -17,14 +17,14 @@
 		\tempo 4 = 128
 
 		\repeat volta 2 {
-			fa'8 fa do do fa fa sol sol
+			| fa'8 fa do do fa fa sol sol
 			| lab lab sol sol fa fa sol sol
 			| mib mib sib sib mib mib fa fa
 			| sol sol fa fa mib mib sol mib
 		}
 
 		\repeat volta 2 {
-			do do sib sib do do re re
+			| do do sib sib do do re re
 			| mib mib re re do do re re
 			| sib sib lab lab sib sib do do
 			| re re do do sib sib re sib
@@ -88,7 +88,7 @@
 
 interlude = \relative sib {
 	\repeat volta 2 {
-		do4 sol' fa8 fa sol do,~
+		| do4 sol' fa8 fa sol do,~
 		| do4 sol' fa8 fa sol do,~
 		| do4 sol' fa8 fa sol do,~
 		| do4 sol' fa8 fa sol do,~
@@ -120,7 +120,7 @@ interlude = \relative sib {
 		\tempo 4 = 172
 
 		\repeat volta 2 {
-			r4 sib do re
+			| r4 sib do re
 			| mib fa mib re8 do~
 			| do2 do4 re
 			| mib fa mib re8 do~
