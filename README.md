@@ -13,6 +13,7 @@ be wrong though.
 
 * absurd_deswotansschwarzerhaufen.ly
 * absurd_mourningsoul.ly
+* acruelangelsthesis.ly
 * ageofempire2_maintheme.ly
 * alestorm_keelhauled.ly
 * alestorm_nancythetarvernwench.ly
@@ -52,7 +53,6 @@ Work in progress
 These music scores are not finished and can be at any level of progress.
 Be aware that some are just barely started.
 
-* acruelangelsthesis.ly
 * alestorm_hangover.ly
 * alestorm_shipwrecked.ly
 * alestorm_thatfamousolspiced.ly

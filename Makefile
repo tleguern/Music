@@ -1,5 +1,6 @@
 SRCS= absurd_deswotansschwarzerhaufen.ly \
 	absurd_mourningsoul.ly \
+	acruelangelsthesis.ly \
 	ageofempire2_maintheme.ly \
 	alestorm_keelhauled.ly \
 	alestorm_nancythetarvernwench.ly \
