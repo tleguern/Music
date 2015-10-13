@@ -15,9 +15,12 @@ mel = \relative sib {
 
 	\repeat volta 2 {
 		| mib mib mib fa
-		| re re re do
+		| re re re re
 		| mib mib mib sol8 fa
-		| re4 re re do
+	}
+	\alternative {
+		{| re4 re do re}
+		{| re4 re do sib}
 	}
 }
 
