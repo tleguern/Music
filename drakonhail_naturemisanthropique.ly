@@ -21,14 +21,19 @@ mel = \relative sib {
 		| mib4 re8 do sib4 do8 mib
 		| re2. re8 do8
 	}
+	\break
 	\repeat volta 4 {
 		| mib4 re8 do do4 do8 do
 		| mib4 re8 do re2
 		| mib4 re8 do do4 do8 do
 		| mib4 re8 do fa4 re
 	}
+	\break
 	\repeat volta 4 {
-		% TODO
+		| mib4 re8 do do4 do8 do
+		| mib4 re8 do la2
+		| mib'4 re8 do la4 la
+		| mib' re8 do lab2
 	}
 }
 
