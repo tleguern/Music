@@ -15,17 +15,17 @@
 
 		\partial 4 do4
 		\repeat volta 2 {
-			sol'2 fa4
-			| mib2 re4
-			| do re mib
+			| sol'2 do,4
+			| sol'2 fa4
+			| mib re mib
 			| do2 do4
-			| sol'2 fa4
-			| mib2 re4
-			| do re mib
 			| fa2 do4
+			| fa2 mib4
+			| fa4 mib fa
+			| sol2 do,4
+			| sol'2 do,4
 			| sol'2 fa4
-			| mib2 re4
-			| do re mib
+			| mib re mib
 			| do2 do4
 			| re4 fa mib
 			| re sol fa
