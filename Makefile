@@ -15,6 +15,8 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	darkthrone_transylvanianhunger.ly \
 	eliziza.ly \
 	gavottedubasleon-01.ly \
+	gavottedubasleon-02.ly \
+	gavottedubasleon-03.ly \
 	gwinarchallaoued.ly \
 	hanterdro-01.ly \
 	hanterdro-02.ly \
