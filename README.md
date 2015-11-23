@@ -38,6 +38,7 @@ be wrong though.
 * kanbaleanarb.ly
 * kasabarzh-01.ly
 * kasabarzh-02.ly
+* kimiadanenez.ly
 * korobeiniki.ly
 * marchedesbergers.ly
 * panzerlied.ly
