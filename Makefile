@@ -5,6 +5,7 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	alestorm_keelhauled.ly \
 	alestorm_nancythetarvernwench.ly \
 	analarch.ly \
+	anhiniagaran.ly \
 	bacchuber.ly \
 	brogozmazadou.ly \
 	chanj-tu.ly \

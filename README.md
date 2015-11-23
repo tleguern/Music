@@ -18,6 +18,7 @@ be wrong though.
 * alestorm_keelhauled.ly
 * alestorm_nancythetarvernwench.ly
 * analarch.ly
+* anhiniagaran.ly
 * bacchuber.ly
 * brogozmazadou.ly
 * chanj-tu.ly
