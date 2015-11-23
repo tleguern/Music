@@ -27,6 +27,7 @@ be wrong though.
 * danstro-02.ly
 * darkthrone_transylvanianhunger.ly
 * eliziza.ly
+* gavottedubasleon-01.ly
 * gwinarchallaoued.ly
 * hanterdro-01.ly
 * hanterdro-02.ly
