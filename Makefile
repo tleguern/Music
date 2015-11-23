@@ -32,6 +32,7 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	sonarchistr.ly \
 	tapenombril.ly \
 	tetris_themea.ly \
+	tonbalearchezeg.ly \
 	tonbaleleonbraz.ly \
 	tourdion.ly \
 	troiscoupdtalon.ly \
