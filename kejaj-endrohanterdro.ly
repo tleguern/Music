@@ -2,7 +2,7 @@
 \include "italiano.ly"
 
 \header {
-	title = "Dans Tricot"
+	title = "Kejaj - andro hanterdro"
 	subtitle = "Derrière de chez mon père"
 	subsubtitle = "v1.0"
 	composer = "Traditionnel Breton"
