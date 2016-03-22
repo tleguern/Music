@@ -16,24 +16,24 @@ mel = \relative sib {
 	\tempo 4 = 60
 
 	\repeat volta 4 {
-		| mib re8 do sib4 do8 re
-		| mib2. mib8 re
-		| mib4 re8 do sib4 do8 mib
-		| re2. re8 do8
+		| lab' sol8 fa mib4 fa8 sol
+		| lab2. lab8 sol
+		| lab4 sol8 fa mib4 fa8 lab
+		| sol2. lab8 sol
 	}
 	\break
 	\repeat volta 4 {
-		| mib4 re8 do do4 do8 do
-		| mib4 re8 do re2
-		| mib4 re8 do do4 do8 do
-		| mib4 re8 do fa4 re
+		| lab4 sol8 fa fa4 fa8 fa
+		| lab4 sol8 fa sol2
+		| lab4 sol8 fa fa4 fa8 fa
+		| lab4 sol8 fa sib4 sol
 	}
 	\break
 	\repeat volta 4 {
-		| mib4 re8 do do4 do8 do
-		| mib4 re8 do la2
-		| mib'4 re8 do la4 la
-		| mib' re8 do lab2
+		| lab4 sol8 fa fa4 fa8 fa
+		| lab4 sol8 fa mib2
+		| lab4 sol8 fa mib4 mib
+		| lab4 sol8 fa do2
 	}
 }
 
