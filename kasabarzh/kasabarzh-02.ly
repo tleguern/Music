@@ -2,7 +2,7 @@
 \include "italiano.ly"
 
 \header {
-	subtitle = "Kas a-barzh"
+	title = "Kas a-barzh"
 	subsubtitle = "v1.0"
 	composer = "Traditionnel Breton"
 	instrument = "Bombarde"
