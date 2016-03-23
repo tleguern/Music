@@ -21,24 +21,28 @@ be wrong though.
 * anhiniagaran.ly
 * bacchuber.ly
 * brogozmazadou.ly
+* burzum_alfadanz.ly
 * chanj-tu.ly
 * cocklesandmussels.ly
 * danskeff.ly
 * danstricot.ly
-* danstro-02.ly
+* danstro/danstro-02.ly
 * darkthrone_transylvanianhunger.ly
 * drakonhail_naturemisanthropique.ly
 * eliziza.ly
-* gavottedubasleon-01.ly
-* gavottedubasleon-02.ly
-* gavottedubasleon-03.ly
+* gavottedubasleon/gavottedubasleon-01.ly
+* gavottedubasleon/gavottedubasleon-02.ly
+* gavottedubasleon/gavottedubasleon-03.ly
 * gwinarchallaoued.ly
-* hanterdro-01.ly
-* hanterdro-02.ly
-* hanterdro-03.ly
+* hanterdro/hanterdro-01.ly
+* hanterdro/hanterdro-02.ly
+* hanterdro/hanterdro-03.ly
+* hanterdro/hanterdro-04.ly
+* hanterdro/hanterdro-05.ly
+* hanterdro/hanterdro-06.ly
 * kanbaleanarb.ly
-* kasabarzh-01.ly
-* kasabarzh-02.ly
+* kasabarzh/kasabarzh-01.ly
+* kasabarzh/kasabarzh-02.ly
 * kimiadanenez.ly
 * korobeiniki.ly
 * marchedesbergers.ly
@@ -53,6 +57,8 @@ be wrong though.
 * tourdion.ly
 * troiscoupdtalon.ly
 * valse.ly
+* valse_ecossaise-01.ly
+* valse_ecossaise-02.ly
 * warcraft2_human1.ly
 * yvesdefrance_1.ly
 * yvesdefrance_2.ly
@@ -68,16 +74,16 @@ Be aware that some are just barely started.
 * alestorm_hangover.ly
 * alestorm_shipwrecked.ly
 * alestorm_thatfamousolspiced.ly
-* burzum_alfadanz.ly
-* danstro-01.ly
+* danstro/danstro-01.ly
 * drakonhail_augustescorbeaux.ly
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
 * polyyshka-polye.ly
-* valse_ecossaise-01.ly
 * warcraft2_human3.ly
 * yvesdefrance_5.ly
+* yvesdefrance_6.ly
+* yvesdefrance_7.ly
 
 How to build
 ------------
