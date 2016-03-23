@@ -47,10 +47,8 @@
 		\time 12/8
 
 		\repeat volta 2 {
-			| do8 mib do mib4.
-			| do8 sib do re4.
-			| re8 mib fa sol4.
-			| fa8 mib fa sol4.
+			| do8 mib do mib4. do8 sib do re4.
+			| re8 mib fa sol4. fa8 mib fa sol4.
 		}
 		\break
 		| do,4 mib8 sol4 sol8 sib4 lab8 sol4 sol8

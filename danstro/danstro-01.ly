@@ -20,6 +20,7 @@
 			| mib fa re sib
 			| mib2 mib
 		}
+		\break
 		\repeat volta 2 {
 			fa4 sol la sol
 			| fa la sol2
@@ -30,12 +31,14 @@
 			| sib mib re fa
 			| mib2 mib
 		}
+		\break
 		\repeat volta 2 {
 			mib4 fa re sib
 			| mib mib mib mib
 			| re fa mib re
 			| mib2 mib
 		}
+		\break
 		\repeat volta 2 {
 			fa4 sol la sib
 			| sol fa sol2
