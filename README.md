@@ -27,6 +27,7 @@ be wrong though.
 * danstricot.ly
 * danstro-02.ly
 * darkthrone_transylvanianhunger.ly
+* drakonhail_naturemisanthropique.ly
 * eliziza.ly
 * gavottedubasleon-01.ly
 * gavottedubasleon-02.ly
@@ -70,7 +71,6 @@ Be aware that some are just barely started.
 * burzum_alfadanz.ly
 * danstro-01.ly
 * drakonhail_augustescorbeaux.ly
-* drakonhail_naturemisanthropique.ly
 * finntroll_galgasang.ly
 * ironmaiden_fearofthedark.ly
 * marionslesroses.ly
