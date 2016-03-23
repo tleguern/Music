@@ -53,6 +53,10 @@ be wrong though.
 * troiscoupdtalon.ly
 * valse.ly
 * warcraft2_human1.ly
+* yvesdefrance_1.ly
+* yvesdefrance_2.ly
+* yvesdefrance_3.ly
+* yvesdefrance_4.ly
 
 Work in progress
 ----------------
@@ -73,6 +77,7 @@ Be aware that some are just barely started.
 * polyyshka-polye.ly
 * valse_ecossaise-01.ly
 * warcraft2_human3.ly
+* yvesdefrance_5.ly
 
 How to build
 ------------
