@@ -84,6 +84,7 @@ Be aware that some are just barely started.
 * yvesdefrance_5.ly
 * yvesdefrance_6.ly
 * yvesdefrance_7.ly
+* yvesdefrance_29.ly
 
 How to build
 ------------
