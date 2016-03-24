@@ -11,20 +11,15 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	chanj-tu.ly \
 	cocklesandmussels.ly \
 	danskeff.ly \
-	danstricot.ly \
-	danstro-02.ly \
+	danstro.ly \
 	darkthrone_transylvanianhunger.ly \
 	eliziza.ly \
-	gavottedubasleon-01.ly \
-	gavottedubasleon-02.ly \
-	gavottedubasleon-03.ly \
+	gavottedubasleon.ly \
 	gwinarchallaoued.ly \
-	hanterdro-01.ly \
-	hanterdro-02.ly \
-	hanterdro-03.ly \
+	hanterdro.ly \
 	kanbaleanarb.ly \
-	kasabarzh-01.ly \
-	kasabarzh-02.ly \
+	kasabarzh.ly \
+	kejaj-endrohanterdro.ly \
 	kimiadanenez.ly \
 	korobeiniki.ly \
 	marchedesbergers.ly \
@@ -39,6 +34,8 @@ SRCS= absurd_deswotansschwarzerhaufen.ly \
 	tourdion.ly \
 	troiscoupdtalon.ly \
 	valse.ly \
+	valse_ecossaise-01.ly \
+	valse_ecossaise-02.ly \
 	warcraft2_human1.ly
 
 OBJS=${SRCS:.ly=.pdf}
