@@ -35,4 +35,5 @@
 		| e Bre -- ge -- ro -- ar -- lann.
 	}
 	\layout {}
+	\midi {}
 }

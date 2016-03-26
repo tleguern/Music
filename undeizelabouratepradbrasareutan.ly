@@ -37,4 +37,5 @@
 		| mo -- net d'ar c'hou vant.
 	}
 	\layout {}
+	\midi {}
 }

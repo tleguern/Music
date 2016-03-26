@@ -31,4 +31,5 @@
 		| o am -- zer
 	}
 	\layout {}
+	\midi {}
 }
