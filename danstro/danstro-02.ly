@@ -14,6 +14,7 @@
 		\clef "treble"
 		\key mib \major
 		\time 12/8
+		\tempo 4. = 100
 
 		\repeat volta 2 {
 			| do8 re mib sol4 fa8 mib4 do8 fa4.
@@ -45,6 +46,7 @@
 		\clef "treble"
 		\key mib \major
 		\time 12/8
+		\tempo 4. = 75
 
 		\repeat volta 2 {
 			| do8 mib do mib4. do8 sib do re4.
@@ -66,6 +68,7 @@
 		\clef "treble"
 		\key mib \major
 		\time 12/8
+		\tempo 4. = 100
 
 		\repeat volta 2 {
 			| do4 sol'8 fa4 mib8 re4 do8 sib4.
