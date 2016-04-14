@@ -43,7 +43,7 @@ OBJS=${SRCS:.ly=.pdf}
 .SUFFIXES: .ly .pdf
 
 .ly.pdf:
-	lilypond -f pdf -o ${@:H} $<
+	lilypond -dno-point-and-click -f pdf -o ${@:H} $<
 
 all: ${OBJS}
 
