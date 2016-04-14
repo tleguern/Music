@@ -4,6 +4,7 @@
 *.mid
 *.log
 *~
+*X.ly
 
 # =========================
 # Operating System Files
