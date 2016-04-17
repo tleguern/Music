@@ -28,5 +28,8 @@
 			| re16 re re re mib8. mib16 do4
 		}
 	}
+	\header {
+		opus = "Thème 6"
+	}
 }
 

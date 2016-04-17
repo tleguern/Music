@@ -28,5 +28,8 @@
 			| sol8( fa16 sol) sib8 la16( sol fa4)
 		}
 	}
+	\header {
+		opus = "Thème 3"
+	}
 }
 

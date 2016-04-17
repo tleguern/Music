@@ -28,5 +28,8 @@
 			| sol8 fa16 mib re8 mib do4
 		}
 	}
+	\header {
+		opus = "Thème 4"
+	}
 }
 

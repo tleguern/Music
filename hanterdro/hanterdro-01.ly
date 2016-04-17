@@ -27,5 +27,8 @@
 			| mib re16 do re8 mib do4
 		}
 	}
+	\header {
+		opus = "Thème 1"
+	}
 }
 

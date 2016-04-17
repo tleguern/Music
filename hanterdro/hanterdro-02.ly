@@ -29,5 +29,8 @@
 			| fa( sol16 lab) sib8 lab( fa4)
 		}
 	}
+	\header {
+		opus = "Thème 2"
+	}
 }
 

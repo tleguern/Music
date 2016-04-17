@@ -30,5 +30,8 @@
 			| lab sol16 fa sol4 lab fa4
 		}
 	}
+	\header {
+		opus = "Thème 7"
+	}
 }
 
