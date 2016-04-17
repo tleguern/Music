@@ -50,4 +50,7 @@
 			| mib2 mib
 		}
 	}
+	\header {
+		opus = "Ton simpl"
+	}
 }

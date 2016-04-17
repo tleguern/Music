@@ -9,7 +9,9 @@
 		instrument = "Bombarde"
 		tagline = "BouleDeF.eu"
 	}
-	
+
 	\include "danstro/danstro-01.ly"
 	\include "danstro/danstro-02.ly"
+	\include "danstro/danstro-03.ly"
+	\include "danstro/danstro-04.ly"
 }
