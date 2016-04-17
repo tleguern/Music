@@ -40,5 +40,8 @@
 			{| mib re do do}
 		}
 	}
+	\header {
+		opus = "Thème 1"
+	}
 }
 

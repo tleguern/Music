@@ -33,5 +33,8 @@
 			{| re fa mib re do sib do r}
 		}
 	}
+	\header {
+		opus = "Thème 2"
+	}
 }
 

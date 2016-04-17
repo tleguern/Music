@@ -33,5 +33,8 @@
 			{| sib sol sib sol | mib re do r}
 		}
 	}
+	\header {
+		opus = "Thème 3"
+	}
 }
 
