@@ -37,7 +37,7 @@
 		}
 	}
 	\header {
-		opus = "Ton simpl"
+		opus = "Tamm kentañ"
 	}
 }
 
@@ -59,7 +59,7 @@
 		| fa4 sol8 fa mib re fa4 mib8 do4.
 	}
 	\header {
-		opus = "Tamm Kreiz"
+		opus = "Tamm kreiz"
 	}
 }
 
@@ -95,7 +95,7 @@
 		}
 	}
 	\header {
-		opus = "Ton doubl"
+		opus = "Tamm diwezhañ"
 	}
 }
 

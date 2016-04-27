@@ -26,7 +26,7 @@
 		}
 	}
 	\header {
-		opus = "Ton simpl"
+		opus = "Tamm kentañ"
 	}
 	\layout {}
 }
