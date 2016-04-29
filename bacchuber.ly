@@ -3,7 +3,6 @@
 
 \header {
 	title = "Bacchu Ber"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel Français"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

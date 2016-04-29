@@ -3,7 +3,6 @@
 
 \header {
 	title = "Cockles and Mussles"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel Irlandais"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

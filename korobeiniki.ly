@@ -3,7 +3,6 @@
 
 \header {
 	title = "Коробейники (Korobeiniki)"
-	subsubtitle = "v1.0"
 	poet = "Nikolaï Alekseïevitch Nekrassov"
 	composer = "Traditionnel Russe"
 	arranger = "Tristan Le Guern"

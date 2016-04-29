@@ -3,7 +3,6 @@
 
 \header {
 	title = "Tape Nombril"
-	subsubtitle = "v1.0"
 	composer = "IMG"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

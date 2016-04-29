@@ -3,7 +3,6 @@
 
 \header {
 	title = "Tetris - Theme A"
-	subsubtitle = "v1.0"
 	composer = "Hirokazu Tanaka"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

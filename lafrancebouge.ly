@@ -3,7 +3,6 @@
 
 \header {
 	title = "La France bouge"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel Français"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

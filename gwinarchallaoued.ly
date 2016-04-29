@@ -3,7 +3,6 @@
 
 \header {
 	title = "Gwin ar c'hallaoued"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel Breton"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

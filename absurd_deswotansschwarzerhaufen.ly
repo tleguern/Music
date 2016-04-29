@@ -3,7 +3,6 @@
 
 \header {
 	title = "Des Wotans Schwarzer Haufen"
-	subsubtitle = "v1.0"
 	composer = "Absurd"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

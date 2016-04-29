@@ -3,7 +3,6 @@
 
 \header {
 	title = "Dañs tro"
-	subsubtitle = "v1.0"
 	composer = "Pervar Den"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

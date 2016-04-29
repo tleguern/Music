@@ -3,7 +3,6 @@
 
 \header {
 	title = "Warcraft II - Human Theme 1"
-	subsubtitle = "v1.0"
 	composer = "Glenn Stafford"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

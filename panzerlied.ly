@@ -3,7 +3,6 @@
 
 \header {
 	title = "Panzerlied"
-	subsubtitle = "v1.0"
 	composer = "Kurt Wiehle"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

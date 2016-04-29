@@ -3,7 +3,6 @@
 
 \header {
 	title = "Rise of Nations - The Russian"
-	subsubtitle = "v1.0"
 	composer = "Duane Decker"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

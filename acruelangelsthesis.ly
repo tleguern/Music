@@ -3,7 +3,6 @@
 
 \header {
 	title = "残酷な天使のテーゼ (A Cruel Angel's Thesis)"
-	subsubtitle = "v1.0"
 	composer = "佐藤英敏"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

@@ -4,7 +4,6 @@
 \header {
 	title = "Kejaj - andro hanterdro"
 	subtitle = "Derrière de chez mon père"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel Breton"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

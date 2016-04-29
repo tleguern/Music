@@ -3,7 +3,6 @@
 
 \header {
 	title = "Nancy the Tavern Wench"
-	subsubtitle = "v1.0"
 	composer = "Alestorm"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

@@ -3,7 +3,6 @@
 
 \header {
 	title = "Keelhauled"
-	subsubtitle = "v1.0"
 	composer = "Alestorm"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

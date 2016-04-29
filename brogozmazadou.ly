@@ -3,7 +3,6 @@
 
 \header {
 	title = "Bro Goz ma Zadoù"
-	subsubtitle = "v1.0"
 	composer = "Taldir Jaffrenou"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

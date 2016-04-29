@@ -3,7 +3,6 @@
 
 \header {
 	title = "Ton bale Leon braz"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel Breton"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

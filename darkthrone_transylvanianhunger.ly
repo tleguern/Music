@@ -3,7 +3,6 @@
 
 \header {
 	title = "Transylvanian Hunger"
-	subsubtitle = "v1.0"
 	composer = "Darkthrone"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

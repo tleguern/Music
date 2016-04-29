@@ -3,7 +3,6 @@
 
 \header {
 	title = "Age of Empire Main Theme"
-	subsubtitle = "v1.0"
 	composer = "Stephen Rippy"
 	arranger = "Tristan Le Guern"
 	instrument = "Bombarde"

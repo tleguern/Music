@@ -3,7 +3,6 @@
 
 \header {
 	title = "Kan Bale an ARB"
-	subsubtitle = "v1.0"
 	composer = "Glenmor"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"

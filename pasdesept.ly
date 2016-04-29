@@ -4,7 +4,6 @@
 \header {
 	title = "Pas de sept"
 	subtitle = "Double scottish"
-	subsubtitle = "v1.0"
 	composer = "Traditionnel breton"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
