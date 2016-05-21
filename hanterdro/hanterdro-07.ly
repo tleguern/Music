@@ -24,9 +24,9 @@
 		}
 		\break
 		\repeat volta 2 {
-			| fa8 sol16 lab sib8 sol lab16 sib re8
+			| fa8 sol16 lab sib8 sol lab16 sib do8
 			| lab sol16 fa sib8 lab sol4
-			| fa8 sol16 lab sib8 sol lab16 sib re8
+			| fa8 sol16 lab sib8 sol lab16 sib do8
 			| lab sol16 fa sol4 lab fa4
 		}
 	}
