@@ -20,17 +20,32 @@ theme_a = \relative sib {
 	| mi4. fad8 sol4 fad4
 }
 
+theme_b = \relative sib {
+	\time 2/4
+	| mi2
+	| re4 do
+	| si2~
+	| si4 si8 do
+	| re2
+}
+
 errancemonotone = \relative sib {
-	% Intro : 0:00 - ?:??
+	% Intro : 0:00 - 0:34
 	\repeat volta 2 {
 		\theme_a
 	}
 	| mi2. mib4
 	\break
 
-	% Theme A : ?:?? - 2:42
+	% Theme A : 0:34 - 2:41
 	\repeat volta 10 {
 		\theme_a
+	}
+	\break
+
+	% Theme B : 2:41 - 5:56
+	\repeat volta 20 {
+		\theme_b
 	}
 }
 
