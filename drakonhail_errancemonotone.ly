@@ -10,7 +10,7 @@
 
 global = {
 	\time 4/4
-	\tempo 4 = 63
+	\tempo 4 = 65
 }
 
 theme_a = \relative sib {
@@ -27,6 +27,14 @@ theme_b = \relative sib {
 	| si2~
 	| si4 si8 do
 	| re2
+}
+
+theme_c = \relative sib {
+	\time 4/4
+	| sol'4 fad8. mi16 mi2
+	| sol4 fad4 mib8. fad16 fad4
+	| mib8. fad16 mi4 mib8. fad16 fad4
+	| mib4 sol mi2
 }
 
 errancemonotone = \relative sib {
@@ -46,6 +54,12 @@ errancemonotone = \relative sib {
 	% Theme B : 2:41 - 5:56
 	\repeat volta 20 {
 		\theme_b
+	}
+	\break
+
+	% Theme C : 5:56 - 7:58
+	\repeat volta 8 {
+		\theme_c
 	}
 }
 
