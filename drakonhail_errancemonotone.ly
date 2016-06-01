@@ -34,7 +34,8 @@ theme_c = \relative sib {
 	| sol'4 fad8. mi16 mi2
 	| sol4 fad4 mib8. fad16 fad4
 	| mib8. fad16 mi4 mib8. fad16 fad4
-	| mib4 sol mi2
+}
+
 theme_d = \relative sib {
 	| mi4 mib8 mi fad2~
 	| fad4 mi8 fad sol2~
@@ -66,6 +67,12 @@ errancemonotone = \relative sib {
 	\repeat volta 8 {
 		\theme_c
 	}
+	\alternative {
+		{| mib4 sol mi2}
+		{| mib4 sol mi2~}
+	}
+	\break
+
 	% Theme D : 7:58 - 9:04
 	\repeat volta 8 {
 		\theme_d
