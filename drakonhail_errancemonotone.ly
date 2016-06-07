@@ -48,7 +48,7 @@ errancemonotone = \relative sib {
 	\repeat volta 2 {
 		\theme_a
 	}
-	| mi2. mib4
+	| mi2. red4
 	\break
 
 	% Theme A : 0:34 - 2:41
@@ -68,8 +68,8 @@ errancemonotone = \relative sib {
 		\theme_c
 	}
 	\alternative {
-		{| mib4 sol mi2}
-		{| mib4 sol mi2~}
+		{| red4 sol mi2}
+		{| red4 sol mi2~}
 	}
 	\break
 
