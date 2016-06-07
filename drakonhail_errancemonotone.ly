@@ -40,7 +40,6 @@ theme_d = \relative sib {
 	| mi4 red8 mi fad2~
 	| fad4 mi8 fad sol2~
 	| sol4 fad8 mi red2~
-	| red4 mi8 fad mi2~
 }
 
 errancemonotone = \relative sib {
@@ -76,6 +75,10 @@ errancemonotone = \relative sib {
 	% Theme D : 7:58 - 9:04
 	\repeat volta 8 {
 		\theme_d
+	}
+	\alternative {
+		{| red4 mi8 fad mi2\laissezVibrer}
+		{| red4 mi8 fad mi2}
 	}
 }
 
