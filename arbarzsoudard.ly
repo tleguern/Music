@@ -2,7 +2,7 @@
 \include "italiano.ly"
 
 \header {
-	title = "Ar barz soudard"
+	title = "Ar barzh soudard"
 	composer = "Traditionnel Breton"
 	%instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
@@ -39,22 +39,22 @@ melody_one = \relative sib {
 	}
 	\addlyrics {
 		Ar
-		| barz ya -- ou -- ank d'ar bre --
-		| zel 'zo et, e- -- kreiz
+		| barzh ya -- ou -- ank d'ar bre --
+		| zel 'zo aet, e- -- kreiz
 		| ar stour -- ma -- dek e vo
 		| ka -- vet; kle --
-		| ze e dad eu e
+		| ze e dad en e
 		| zorn a lu -- gern, E de --
-		| len ger war e skoaz a
+		| lenn gaer war e skoaz a
 		| dre -- gern
-		| Bro ma zad, lar ar
-		| barz sou -- dard, mar
-		| be an oll ouz --
-		| id tru -- _ bard,
+		| Bro ma zad, 'lar ar
+		| barzh sou -- dard, mar
+		| bez an holl ouz --
+		| it tru -- _ bard,
 		| ma c'hle -- ze be -- pred evid --
-		| oud 'stour -- mo; ma -- de --
-		| len be -- pred e -- vid --
-		| oud 'ga -- no.
+		| out 'stour -- mo; ma -- de --
+		| lenn be -- pred e -- vid --
+		| out 'ga -- no.
 	}
 	\layout {}
 }
