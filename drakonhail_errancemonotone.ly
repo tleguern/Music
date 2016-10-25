@@ -11,6 +11,7 @@
 global = {
 	\time 4/4
 	\tempo 4 = 65
+	\clef "treble_8"
 }
 
 theme_a = \relative sib {
