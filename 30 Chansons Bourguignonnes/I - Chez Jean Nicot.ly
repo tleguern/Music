@@ -45,6 +45,16 @@ Soprani = \relative do'' {
 	| la~
 	| la~
 	| la8 r4.
+	% 1
+	\time 6/8
+	| R1*6/8
+	| r4. do8\f si do
+	| la4 re8 mi4 mi,8
+	| la4 do8 si4 do8
+	| la4. re
+	\time 2/4
+	| mi8 mi r4
+	| R1*2/4
 }
 
 SopraniLyrics = \lyricmode {
@@ -64,6 +74,10 @@ SopraniLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou -- pi -- re.
 }
 
 Contralti = \relative do'' {
@@ -98,6 +112,16 @@ Contralti = \relative do'' {
 	| mi~
 	| mi~
 	| mi8 r4.
+	% 1
+	\time 6/8
+	| R1*6/8
+	| r4. do'8\f si do
+	| la4 re8 mi4 mi,8
+	| la4 do8 si4 do8
+	| la4. re
+	\time 2/4
+	| mi8 mi r4
+	| R1*2/4
 }
 
 ContraltiLyrics = \lyricmode {
@@ -114,6 +138,10 @@ ContraltiLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou -- pi -- re.
 }
 
 Tenors = \relative do'' {
@@ -129,7 +157,8 @@ Tenors = \relative do'' {
 	\time 2/4
 	| mi8 mi r4
 	| R1*2/4
-	| r4\p mi8 do
+	\clef "treble_8"
+	| r4\p mi,8 do
 	| si si16 mi re8 do
 	\time 6/8
 	| si4. do8\mf si do
@@ -148,6 +177,16 @@ Tenors = \relative do'' {
 	| la~
 	| la~
 	| la8 r4.
+	% 1
+	\time 6/8
+	| R1*6/8
+	| r4. do8\f si do
+	| la4 re8 mi4 mi,8
+	| la4 do8 si4 do8
+	| la4. re
+	\time 2/4
+	| mi8 mi mi\p do
+	| si si16 mi re8 do
 }
 
 TenorsLyrics = \lyricmode {
@@ -166,6 +205,12 @@ TenorsLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou --
+	pi -- re. Qu'a -- vez --
+	vous, belle, à sou -- pi --
 }
 
 Basses = \relative do'' {
@@ -201,6 +246,16 @@ Basses = \relative do'' {
 	| la~
 	| la~
 	| la8 r4.
+	% 1
+	\time 6/8
+	| R1*6/8
+	| r4. do8\f si do
+	| la4 re8 mi4 mi8
+	| la4 do8 si4 do8
+	| la4. re
+	\time 2/4
+	| mi8 mi r4
+	| R1*2/4
 }
 
 BassesLyrics = \lyricmode {
@@ -217,6 +272,10 @@ BassesLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou -- pi -- re.
 }
 
 \score {
