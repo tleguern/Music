@@ -2,12 +2,12 @@
 \include "italiano.ly"
 
 \header {
-	title = "Gavotte de l'Aven"
+	title = "Suite de l'Aven"
 	instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 
-aven = \relative sib {
+gavotteaven = \relative sib {
 	\clef "treble"
 	\key sib \major
 	\time 4/4
@@ -43,16 +43,57 @@ aven = \relative sib {
 	}
 }
 
+balaven = \relative sib {
+	\clef "treble"
+	\key sib \major
+	\time 12/8
+
+	\tempo 4. = 76
+	\repeat volta 2 {
+		| re8 re( sib) re fa( re) fa mib( do) mib re4
+		| re8 re( sib) re fa4 sib,8 do re do sib4\fermata
+	}
+	\break
+
+	\tempo 4. = 116
+	\repeat volta 2 {
+		| re8( mib) do re re re re( mib) do re4.
+		| re8( sib) re fa( re) fa mib( do) mib re4.
+		| re8( mib) do re mib fa re( mib) do re4 re8
+		| re( sib) re fa4 sib,8 do( re) do sib4.\fermata
+	}
+}
+
 \score {
 	\new Staff {
-		\aven
+		\gavotteaven
+	}
+	\header {
+		piece = "Gavotte de l'aven"	
+	}
+	\layout {}
+}
+
+\score {
+	\new Staff {
+		\balaven
+	}
+	\header {
+		piece = "Bal de l'aven"	
 	}
 	\layout {}
 }
 
 \score {
 	\new Staff \with {midiInstrument=#"oboe"} {
-		\unfoldRepeats { \aven }
+		\unfoldRepeats { \gavotteaven }
+	}
+	\midi {}
+}
+
+\score {
+	\new Staff \with {midiInstrument=#"oboe"} {
+		\unfoldRepeats { \balaven }
 	}
 	\midi {}
 }
