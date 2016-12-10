@@ -155,7 +155,8 @@ Tenors = \relative do'' {
 	\time 2/4
 	| mi8 mi r4
 	| R1*2/4
-	| r4\p mi8 do
+	\clef "treble_8"
+	| r4\p mi,8 do
 	| si si16 mi re8 do
 	\time 6/8
 	| si4. do8\mf si do
