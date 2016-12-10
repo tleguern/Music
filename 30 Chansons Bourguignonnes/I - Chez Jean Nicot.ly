@@ -290,8 +290,6 @@ BassesLyrics = \lyricmode {
 		\new Voice = "basses" \Basses
 		\new Lyrics \lyricsto basses \BassesLyrics
 	>>
-	%{
-	%}
   >>
   \layout {
     \context { \Staff \RemoveEmptyStaves }

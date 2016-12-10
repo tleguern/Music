@@ -14,14 +14,14 @@ global = {
 	\clef "treble_8"
 }
 
-theme_a = \relative sib {
+theme_a = \relative sib, {
 	| mi2. sol8 fad8
 	| mi2 fad4. mi8
 	| mi2. fad8 red
 	| mi4. fad8 sol4 fad4
 }
 
-theme_b = \relative sib {
+theme_b = \relative sib, {
 	\time 2/4
 	| mi2
 	| re4 do
@@ -30,20 +30,20 @@ theme_b = \relative sib {
 	| re2
 }
 
-theme_c = \relative sib {
+theme_c = \relative sib, {
 	\time 4/4
 	| sol'4 fad8. mi16 mi2
 	| sol4 fad4 red8. fad16 fad4
 	| red8. fad16 mi4 red8. fad16 fad4
 }
 
-theme_d = \relative sib {
+theme_d = \relative sib, {
 	| mi4 red8 mi fad2~
 	| fad4 mi8 fad sol2~
 	| sol4 fad8 mi red2~
 }
 
-errancemonotone = \relative sib {
+errancemonotone = {
 	% Intro : 0:00 - 0:34
 	\repeat volta 2 {
 		\theme_a
