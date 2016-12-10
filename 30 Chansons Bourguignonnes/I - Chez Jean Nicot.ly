@@ -45,6 +45,14 @@ Soprani = \relative do'' {
 	| la~
 	| la~
 	| la8 r4.
+	\time 6/8	% Premier couplet, page 4
+	| R1*6/8
+	| r4 r8\f do8 si do
+	| la4 re8 mi4 mi,8
+	| la4 do8 si4 do8
+	| la4. re4.
+	\time 2/4
+	| mi8 mi r4
 }
 
 SopraniLyrics = \lyricmode {
@@ -64,6 +72,11 @@ SopraniLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand Les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou --
+	pi -- re.
 }
 
 Contralti = \relative do'' {
@@ -98,6 +111,14 @@ Contralti = \relative do'' {
 	| mi~
 	| mi~
 	| mi8 r4.
+	\time 6/8	% Premier couplet, page 4
+	| R1*6/8
+	| r4 r8\f do'8 si do
+	| la4 re8 mi4 mi,8
+	| la4 do8 si4 do8
+	| la4. re4.
+	\time 2/4
+	| mi8 mi r4
 }
 
 ContraltiLyrics = \lyricmode {
@@ -114,6 +135,11 @@ ContraltiLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand Les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou --
+	pi -- re.
 }
 
 Tenors = \relative do'' {
@@ -148,6 +174,14 @@ Tenors = \relative do'' {
 	| la~
 	| la~
 	| la8 r4.
+	\time 6/8	% Premier couplet, page 4
+	| R1*6/8
+	| r4 r8\f do8 si do
+	| la4 re8 mi4 mi,8
+	| la4 do8 si4 do8
+	| la4. re4.
+	\time 2/4
+	| mi8 mi r4
 }
 
 TenorsLyrics = \lyricmode {
@@ -166,6 +200,11 @@ TenorsLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand Les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou --
+	pi -- re.
 }
 
 Basses = \relative do'' {
@@ -201,6 +240,14 @@ Basses = \relative do'' {
 	| la~
 	| la~
 	| la8 r4.
+	\time 6/8	% Premier couplet, page 4
+	| R1*6/8
+	| r4 r8\f do8 si do
+	| la4 re8 mi4 mi8
+	| la,4 do8 si4 do8
+	| la4. re4.
+	\time 2/4
+	| mi8 mi r4
 }
 
 BassesLyrics = \lyricmode {
@@ -217,6 +264,11 @@ BassesLyrics = \lyricmode {
 	ses
 	ap --
 	pas.
+	Quand Les Es --
+	pa -- gnols vont la
+	voir, son pe -- tit
+	cœur sou --
+	pi -- re.
 }
 
 \score {
@@ -237,6 +289,8 @@ BassesLyrics = \lyricmode {
 		\new Voice = "basses" \Basses
 		\new Lyrics \lyricsto basses \BassesLyrics
 	>>
+	%{
+	%}
   >>
   \layout {
     \context { \Staff \RemoveEmptyStaves }
