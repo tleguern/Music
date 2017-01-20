@@ -152,7 +152,7 @@ riqueniee = \relative sib {
 		\unfoldRepeats { \loudeac_tonsimple }
 		\unfoldRepeats { \baleu }
 		\unfoldRepeats { \loudeac_tondouble }
-		%\unfoldRepeats { \riqueniee }
+		\unfoldRepeats { \riqueniee }
 	}
 	\midi {}
 }
