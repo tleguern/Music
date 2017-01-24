@@ -45,7 +45,7 @@ baleu = \relative sib {
 	\clef "treble"
 	\key sib \major
 	\time 12/8
-	\tempo 4 = 140
+	\tempo 4. = 140
 
 	\repeat volta 2 {
 		| do8 sib do sol'4 sol8 fa sib la sol4 sol8
@@ -93,7 +93,7 @@ riqueniee = \relative sib {
 	\key sib \major
 	\time 12/8
 
-	\tempo 4 = 130
+	\tempo 4. = 130
 	\repeat volta 2 {
 		| sol'4 sol8 fa4 fa8 mib re do re4 re8
 		| sol4 sol8 fa4 sol8 mib4 re8 do4.
