@@ -49,6 +49,12 @@
                   (lh . ())
                   (rh . ()))
             }
+            mi^\markup {
+                \woodwind-diagram #'clarinet
+                #'((cc . (one two four))
+                  (lh . ())
+                  (rh . ()))
+            }
             fa^\markup {
                 \woodwind-diagram #'clarinet
                 #'((cc . (one two))
