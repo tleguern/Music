@@ -32,7 +32,7 @@ loudeac_tonsimple = \relative sib {
 	}
 	\break
 	\repeat volta 2 {
-		| sol'4^"Thème 3" fa8 sol mib re do sol'
+		| sol'4^"Thème C" fa8 sol mib re do sol'16 sol
 		| sol8 sol fa sol mib4 do
 	}
 	\repeat volta 2 {
@@ -45,12 +45,13 @@ baleu = \relative sib {
 	\clef "treble"
 	\key sib \major
 	\time 12/8
-	\tempo 4. = 140
 
+	\tempo 4. = 70
 	\repeat volta 2 {
 		| do8 sib do sol'4 sol8 fa sib la sol4 sol8
 		| fa8 sol fa re4 mib8 fa re sib do4.
 	}
+	\tempo 4. = 140
 	\repeat volta 2 {
 		| re4 re8 sol4 sol8 fa mib re do sib do
 		| re4 re8 sol4 sol8 fa mib re do4.
@@ -77,13 +78,13 @@ loudeac_tondouble = \relative sib {
 	\break
 	\repeat volta 2 {
 		| re8^"Thème B" mib fa do do do sib do
-		| re fa mib do re4 do
+		| re( fa) mib do re4 do
 	}
 	\break
 	\repeat volta 2 {
 		| do8 do fa4 mib re8 fa
 		| fa8 mib do do sib do re do
-		| \times 2/3 {do8 do do} fa4 mib re8 fa
+		| do8 do fa4 mib re8 fa
 		| sol8 mib do mib re4 do
 	}
 }
@@ -98,7 +99,7 @@ riqueniee = \relative sib {
 		| sol'4 sol8 fa4 fa8 mib re do re4 re8
 		| sol4 sol8 fa4 sol8 mib4 re8 do4.
 	}
-	\tempo 4 = 150
+	\tempo 4. = 150
 	| sol'8 sol sol sol4 fa8 sol4 la8 sib4 sib8
 	| sol8 sol sol sol4 sol8 fa sol fa mib4 mib8
 	\repeat volta 2 {
