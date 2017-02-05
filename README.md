@@ -60,10 +60,6 @@ be wrong though.
 * valse_ecossaise-01.ly
 * valse_ecossaise-02.ly
 * warcraft2_human1.ly
-* yvesdefrance_1.ly
-* yvesdefrance_2.ly
-* yvesdefrance_3.ly
-* yvesdefrance_4.ly
 
 Work in progress
 ----------------
@@ -81,16 +77,6 @@ Be aware that some are just barely started.
 * marionslesroses.ly
 * polyyshka-polye.ly
 * warcraft2_human3.ly
-* yvesdefrance_5.ly
-* yvesdefrance_6.ly
-* yvesdefrance_7.ly
-* yvesdefrance_8.ly
-* yvesdefrance_9.ly
-* yvesdefrance_10.ly
-* yvesdefrance_11.ly
-* yvesdefrance_14.ly
-* yvesdefrance_15.ly
-* yvesdefrance_29.ly
 
 How to build
 ------------
