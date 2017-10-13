@@ -26,7 +26,7 @@
 			| re8( sib sol4~
 			| sol4) r8 re'8
 			| re8. re16 re8 mib
-			| fa8 mib re4
+			| fa8( mib re4)
 			| sol4 lab8 sol
 			| fa8 mib re fa
 			| mib4( re
