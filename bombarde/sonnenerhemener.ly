@@ -5,6 +5,7 @@
 	title = "Sonnenn er hemener"
 	subtitle = "Kas a barzh"
 	composer = "Traditionnel Breton"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

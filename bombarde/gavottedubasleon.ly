@@ -3,12 +3,13 @@
 
 \book {
 	\header {
-		title = "Kas a-barzh"
+		title = "Gavotte du Bas-Léon"
 		composer = "Traditionnel Breton"
 		instrument = "Bombarde"
 		tagline = "BouleDeF.eu"
 	}
-	
-	\include "kasabarzh/kasabarzh-01.ly"
-	\include "kasabarzh/kasabarzh-02.ly"
+
+	\include "gavottedubasleon-01.ly"
+	\include "gavottedubasleon-02.ly"
+	\include "gavottedubasleon-03.ly"
 }

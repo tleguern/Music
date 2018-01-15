@@ -4,6 +4,7 @@
 \header {
 	title = "Rene ar Gwenn a vourc'h Mendon"
 	composer = "Traditionnel Breton"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

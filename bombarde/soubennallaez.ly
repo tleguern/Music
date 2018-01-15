@@ -4,6 +4,7 @@
 \header {
 	title = "Soubenn al laez"
 	composer = "Traditionel Breton"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

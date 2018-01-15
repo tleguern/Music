@@ -5,6 +5,7 @@
 	title = "La casquette sur les genoux"
 	subtitle = "Scottish"
 	composer = "Pierrick Lemou"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

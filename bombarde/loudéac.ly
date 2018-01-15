@@ -4,6 +4,7 @@
 \header {
 	title = "Suite de Loudéac"
 	composer = "Traditionnel Breton"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

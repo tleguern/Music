@@ -4,6 +4,7 @@
 \header {
 	title = "Gwerso mat ie kleven parlañdal"
 	composer = "Traditionnel Breton"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

@@ -5,6 +5,7 @@
 	title = "An douristed"
 	composer = "Yehann-Baol Rieux"
 	poet = "Pierre Thomas"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

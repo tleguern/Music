@@ -5,6 +5,7 @@
 	title = "Er verh a vro er Galleued"
 	subtitle = "Hanter dro"
 	composer = "Alan Er Houluen / Trouzerion"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

@@ -5,6 +5,7 @@
 	title = "Augustes Corbeaux"
 	composer = "Dunkel"
 	arranger = "Tristan Le Guern"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

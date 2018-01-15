@@ -4,6 +4,7 @@
 \header {
 	title = "Ton bale eured « plac'h » paour"
 	composer = "Traditionel Breton"
+  instrument = "Bombarde"
 	tagline = "BouleDeF.eu"
 }
 

@@ -5,6 +5,7 @@
 	title = "Errance Monotone"
 	composer = "Dunkel"
 	arranger = "Tristan Le Guern"
+  instrument = "Guitare"
 	tagline = "BouleDeF.eu"
 }
 
