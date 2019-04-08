@@ -46,7 +46,8 @@ bprimepart = \relative do {
 	| \repeat tremolo 8 do16\5^B
 	  \repeat tremolo 4 sol'\4
 	  \repeat tremolo 4 sold\4
-	| \repeat tremolo 12 red\5
+	| \repeat tremolo 8 sold,
+	  \repeat tremolo 4 red'\5
 	  \repeat tremolo 4 re\5
 	| \repeat tremolo 8 do\5
 	  \repeat tremolo 4 sol'\4
