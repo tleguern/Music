@@ -76,6 +76,13 @@ bdoubleprimepart = \relative do' {
 	>>
 }
 
+antileadpart = \relative do' {
+	| do4^"Anti-lead" red16 re do8 red16 re do8 red16 re do8
+	| red4 fad16 fa red8 fad16 fa red8 fad16 fa red8
+	| do4 red16 re do8 red16 re do8 red16 re do8
+	| dod8 red mi red dod red mi red
+}
+
 GuitareOneMidi = \relative do' {
 	\repeat volta 6 {
 		\intropart
@@ -100,6 +107,10 @@ GuitareOneMidi = \relative do' {
 	}
 	\repeat volta 4 {
 		\bprimepart
+	}
+	\break
+	\repeat volta 4 {
+		\antileadpart
 	}
 	\break
 	\repeat volta 2 {
@@ -141,6 +152,13 @@ GuitareTwoMidi = \relative do' {
 	}
 	\repeat volta 4 {
 		\bdoubleprimepart
+	}
+	\break
+	\repeat volta 4 {
+		| s4 s s s
+		| s4 s s s
+		| s4 s s s
+		| s4 s s s
 	}
 	\break
 	\repeat volta 2 {
