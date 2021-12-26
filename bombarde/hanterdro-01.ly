@@ -30,5 +30,7 @@
 	\header {
 		opus = "Thème 1"
 	}
+	\midi {}
+	\layout {}
 }
 
